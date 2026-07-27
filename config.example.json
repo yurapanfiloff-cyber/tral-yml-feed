@@ -1,0 +1,17 @@
+{
+  "source_page": "https://tral-diler.ru/traly-i-polupricepy-v-nalichii",
+  "tilda_endpoint": "https://store.tildaapi.com/api/getproductslist/",
+  "output_path": "/var/www/feed.tral-diler.ru/public/direct.yml",
+  "status_path": "/var/lib/tral-yml-feed/status.json",
+  "audit_report_path": "/var/lib/tral-yml-feed/audit.json",
+  "log_path": "/var/log/tral-yml-feed/generator.log",
+  "lock_path": "/var/lib/tral-yml-feed/generator.lock",
+  "shop_name": "Трал-Дилер",
+  "company_name": "ИП БАДУЛИН",
+  "shop_url": "https://tral-diler.ru/",
+  "timezone_offset": 3,
+  "minimum_products": 40,
+  "max_count_drop_percent": 20,
+  "workers": 6,
+  "request_timeout_seconds": 35
+}

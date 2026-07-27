@@ -1,0 +1,19 @@
+[Unit]
+Description=Generate Tral-Diler YML feed
+After=network-online.target
+Wants=network-online.target
+
+[Service]
+Type=oneshot
+User=tralfeed
+Group=tralfeed
+WorkingDirectory=/opt/tral-yml-feed
+ExecStart=/opt/tral-yml-feed/.venv/bin/python /opt/tral-yml-feed/feed_generator.py --config /etc/tral-yml-feed/config.json
+NoNewPrivileges=true
+PrivateTmp=true
+ProtectSystem=strict
+ProtectHome=true
+ReadWritePaths=/var/www/feed.tral-diler.ru/public /var/lib/tral-yml-feed /var/log/tral-yml-feed
+
+[Install]
+WantedBy=multi-user.target

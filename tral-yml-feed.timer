@@ -1,0 +1,11 @@
+[Unit]
+Description=Update Tral-Diler YML feed daily
+
+[Timer]
+OnCalendar=*-*-* 05:17:00
+Persistent=true
+RandomizedDelaySec=300
+Unit=tral-yml-feed.service
+
+[Install]
+WantedBy=timers.target
