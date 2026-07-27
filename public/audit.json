@@ -1,6 +1,6 @@
 {
   "status": "ok",
-  "checked_at": "2026-07-27T16:57:46.083572+00:00",
+  "checked_at": "2026-07-27T17:21:15.034353+00:00",
   "source_page": "https://tral-diler.ru/traly-i-polupricepy-v-nalichii",
   "catalogue": {
     "recid": "2320492521",
@@ -19,9 +19,9 @@
   "warnings": [],
   "excluded_products": [],
   "count_change": {
-    "previous_count": 78,
+    "previous_count": 80,
     "new_count": 80,
-    "difference": 2,
+    "difference": 0,
     "drop_percent": 0.0,
     "threshold_percent": 20.0,
     "critical": false
