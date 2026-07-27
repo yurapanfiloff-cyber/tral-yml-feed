@@ -1,0 +1,13 @@
+{
+  "status": "ok",
+  "generator_version": "1.2.1",
+  "updated_at": "2026-07-27T16:57:46.100808+00:00",
+  "message": "Фид успешно опубликован",
+  "source_products": 80,
+  "published_products": 80,
+  "excluded_products": 0,
+  "simplified_offers": 0,
+  "output_path": "public/direct.yml",
+  "sha256": "a8c1343668d9b0746ad7024dcba55d0d39983fab18c0e0d7742698f8e49fe57f",
+  "audit_report": "public/audit.json"
+}

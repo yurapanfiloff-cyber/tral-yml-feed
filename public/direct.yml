@@ -1,0 +1,2078 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE yml_catalog SYSTEM "shops.dtd">
+<yml_catalog date="2026-07-27 19:57">
+  <shop>
+    <name>Трал-Дилер</name>
+    <company>ИП БАДУЛИН</company>
+    <url>https://tral-diler.ru/</url>
+    <currencies>
+      <currency id="RUB" rate="1"/>
+    </currencies>
+    <categories>
+      <category id="309277391">3-x осные тралы</category>
+      <category id="263719542">4-x осные тралы</category>
+      <category id="869083505">5-ти осные тралы</category>
+      <category id="35992556">6-и осные тралы</category>
+      <category id="609368152">7-ми осные тралы</category>
+      <category id="535553">Автовозы</category>
+      <category id="991992357">Бортовые полуприцепы</category>
+      <category id="1201859611">Контейнеровозы</category>
+      <category id="800757843">Особые тралы</category>
+      <category id="1258709000">Рефрижераторные полуприцепы</category>
+      <category id="1869196400">Самосвальные полуприцепы</category>
+      <category id="332468484">Тралы 5 осей</category>
+      <category id="438977898">Фургоны полуприцепы</category>
+      <category id="765885657">Цистерны полуприцепы</category>
+      <category id="222441007">Шторные полуприцепы</category>
+    </categories>
+    <offers>
+      <offer id="amur-lyr9402" available="true">
+        <url>https://tral-diler.ru/catalog/avtovoz/amur-lyr9402</url>
+        <price>6300000.00</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>535553</categoryId>
+        <picture>https://static.tildacdn.com/stor3336-3237-4363-b638-626537303934/b501133c5c0866819baf58a0990135cc.webp</picture>
+        <picture>https://static.tildacdn.com/stor6539-3266-4535-b035-663666396137/16845aec5a808651085dd1e7848e7609.webp</picture>
+        <picture>https://static.tildacdn.com/tild3738-3635-4538-a563-306361633131/amur.webp</picture>
+        <name>Полуприцеп-автовоз AMUR (Амур) LYR9402TCL на 8 автомобилей (винтовой)</name>
+        <typePrefix>Автовоз для транспортировки 8 машин</typePrefix>
+        <vendor>AMUR</vendor>
+        <model>LYR9402TCL</model>
+        <description>Полуприцеп-автовоз AMUR LYR9402TCL на 8 автомобилей: винтовые подъёмные механизмы, автономная гидрофикация, 2 оси BPW, пневмоподвеска, тормоза WABCO ABS. Простая надёжная конструкция. Поставка по РФ, ОТТС.</description>
+        <param name="Тип">Автовоз для транспортировки 8 машин</param>
+        <param name="Марка">AMUR LYR9402TCL</param>
+        <param name="Модель">LYR9402TCL</param>
+        <param name="Габариты (ДхШхВ)">17100х2550х4000мм</param>
+        <param name="Грузоподъемность">20 тонн</param>
+        <param name="Подвеска">2 оси BPW пневматические</param>
+        <param name="Подъемные механизмы">Винтовые</param>
+        <param name="Механизм козления">Гидравлический</param>
+        <param name="Механизм удлинения задней платформы">Гидравлический</param>
+        <param name="Система гидрофикации">Автономная</param>
+        <param name="Тип прицепа">Автовоз (винтовой, на 8 авто)</param>
+        <param name="Габариты">17100 х 2550 х 4000 мм</param>
+        <param name="Грузоподъёмность">20 000 кг</param>
+        <param name="Кол-во осей">2</param>
+      </offer>
+      <offer id="juyun-lyz9220tcl" available="true">
+        <url>https://tral-diler.ru/catalog/avtovoz/juyun-lyz9220tcl</url>
+        <price>7250000.00</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>535553</categoryId>
+        <picture>https://static.tildacdn.com/stor3164-3136-4662-a663-313562623464/c48e84411d2c5885afd159af49f96a53.webp</picture>
+        <picture>https://static.tildacdn.com/stor6134-3137-4137-a435-643439346537/fc9be37001b8713559585156344e9362.webp</picture>
+        <picture>https://static.tildacdn.com/tild3762-6637-4463-b630-363031636362/3131.webp</picture>
+        <name>Оцинкованный автовоз JUYUN (Джуюн) LYZ9220TCL на 8 машин</name>
+        <typePrefix>Автовоз для транспортировки 8 машин</typePrefix>
+        <vendor>JUYUN</vendor>
+        <model>LYZ9220TCL</model>
+        <description>Оцинкованный автовоз JUYUN LYZ9220TCL на 8 авто. Горячее цинкование, оси BPW/SAF, пневмоподвеска, гидравлические платформы, ABS WABCO. Гарантия 18 мес, лизинг, доставка по РФ.</description>
+        <param name="Тип">Автовоз для транспортировки 8 машин</param>
+        <param name="Марка">JUYUN LYZ9220TCL</param>
+        <param name="Модель">LYZ9220TCL</param>
+        <param name="Габариты (ДхШхВ)">17 100 × 2 550 × 3 910 мм</param>
+        <param name="Грузоподъемность">28 тонн</param>
+        <param name="Подвеска">2 оси BPW/SAF, 2 шт.</param>
+        <param name="Система козления">гидравлическая</param>
+        <param name="Удлинение задней платформы">гидравлическое</param>
+        <param name="Трапы для заезда авто">выдвижные, ручные</param>
+        <param name="Система гидрофикации">Автономная</param>
+        <param name="Покрытие">горячее цинкование</param>
+        <param name="Тип прицепа">Автовоз полуприцеп (на 8 авто)</param>
+        <param name="Габариты">17 100 × 2 550 × 3 910 мм</param>
+        <param name="Грузоподъёмность">28 000 кг</param>
+        <param name="Кол-во осей">2</param>
+      </offer>
+      <offer id="luxuda-lzc9405bg" available="true">
+        <url>https://tral-diler.ru/catalog/avtovoz/luxuda-lzc9405bg</url>
+        <price>5950000.00</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>535553</categoryId>
+        <picture>https://static.tildacdn.com/stor3162-3830-4134-a332-373535346332/cdf18ba9c6a903867eed36924af2fd75.webp</picture>
+        <picture>https://static.tildacdn.com/stor6361-3162-4335-b735-623038373365/0c8718fb67a86c4128f12702792a2dd4.webp</picture>
+        <picture>https://static.tildacdn.com/tild3862-3262-4962-a433-326530343631/avtovoz-luxuda.webp</picture>
+        <name>Полуприцеп-автовоз LUXUDA (Люксуда) LZC9405BG на 8 автомобилей (винтовой)</name>
+        <typePrefix>Автовоз для транспортировки 8 машин</typePrefix>
+        <vendor>LUXUDA</vendor>
+        <model>LZC9405BG</model>
+        <description>Полуприцеп-автовоз LUXUDA LZC9405BG на 8 автомобилей: винтовые механизмы, оси SAF, автономная гидрофикация (гидрофикация тягача не нужна), пневмоподвеска, тормоза WABCO ABS. Поставка по РФ, ОТТС.</description>
+        <param name="Тип">Автовоз для транспортировки 8 машин</param>
+        <param name="Марка">LUXUDA LZC9405BG</param>
+        <param name="Модель">LZC9405BG</param>
+        <param name="Габариты (ДхШхВ)">17000х2550х3950мм</param>
+        <param name="Грузоподъемность">20 тонн</param>
+        <param name="Подвеска">2 оси SAF пневматические</param>
+        <param name="Подъемные механизмы">Винтовые</param>
+        <param name="Система удлинения рабочей площадки">Гидравлическая</param>
+        <param name="Система козления">Гидравлическая</param>
+        <param name="Тип прицепа">Автовоз (винтовой, на 8 авто)</param>
+        <param name="Габариты (Д×Ш×В)">17000 х 2550 х 3950 мм</param>
+        <param name="Грузоподъёмность">20 000 кг</param>
+        <param name="Кол-во осей">2</param>
+      </offer>
+      <offer id="luxuda-lzc9506bg-2" available="true">
+        <url>https://tral-diler.ru/catalog/avtovoz/luxuda-lzc9506bg-2</url>
+        <price>6300000.00</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>535553</categoryId>
+        <picture>https://static.tildacdn.com/stor6165-3635-4332-a566-356139363235/e1b38786e94fc926b85e39346ea0b504.webp</picture>
+        <picture>https://static.tildacdn.com/stor3636-6535-4363-b437-303765383066/2625fee8deaba6ab595a07a5dc34f88f.webp</picture>
+        <picture>https://static.tildacdn.com/tild3366-3035-4337-a565-373730386461/avtovoz-konteinerovo.webp</picture>
+        <name>Автовоз-контейнеровоз LUXUDA (Люксуда) LZC9506BG</name>
+        <typePrefix>Автовоз для транспортировки 8 машин</typePrefix>
+        <vendor>LUXUDA</vendor>
+        <model>LZC9506BG</model>
+        <description>Полуприцеп LUXUDA LZC9506BG с функцией перевозки авто и контейнеров. Технические параметры и условия поставки от официального дилера.</description>
+        <param name="Тип">Автовоз для транспортировки 8 машин</param>
+        <param name="Марка">LUXUDA LZC9506BG</param>
+        <param name="Модель">LZC9506BG</param>
+        <param name="Габариты (ДхШхВ)">17000х2550х3900мм</param>
+        <param name="Грузоподъемность">28 тонн</param>
+        <param name="Подвеска">3 оси пневматическая. 1-ая ось подъемная</param>
+        <param name="Подъемные механизмы">Гидравлические</param>
+        <param name="Система удлинения рабочей площадки">Гидравлическая</param>
+        <param name="Система козления">Гидравлическая</param>
+        <param name="Тип прицепа">Автовоз-контейнеровоз (гидравлический)</param>
+        <param name="Габариты">17000 х 2550 х 3900 мм</param>
+        <param name="Грузоподъёмность">28 000 кг</param>
+        <param name="Кол-во осей">3 (BPW), 1-я подъёмная</param>
+      </offer>
+      <offer id="luxuda-lzc9506bg-usilennyy" available="true">
+        <url>https://tral-diler.ru/catalog/avtovoz/luxuda-lzc9506bg-usilennyy</url>
+        <price>6300000.00</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>535553</categoryId>
+        <picture>https://static.tildacdn.com/stor3561-6161-4566-b965-353833313630/269903091353202196ad915365c5f3be.webp</picture>
+        <picture>https://static.tildacdn.com/stor3836-6433-4665-a534-323235336332/439057e658100105f3f6a2b8fb438d91.webp</picture>
+        <picture>https://static.tildacdn.com/tild6561-6538-4662-b036-306535653731/avtovoz.png</picture>
+        <name>Автовоз-контейнеровоз LUXUDA (Люксуда) LZC9506BG (усиленный)</name>
+        <typePrefix>Автовоз для транспортировки 8 машин</typePrefix>
+        <vendor>LUXUDA</vendor>
+        <model>LZC9506BG</model>
+        <description>Усиленный автовоз-контейнеровоз LUXUDA LZC9506BG — доработанная версия: перевозка 8 авто и контейнеров 20/40, оси BPW, гидравлика, пневмоподвеска. Поставка по РФ, лизинг.</description>
+        <param name="Тип">Автовоз для транспортировки 8 машин</param>
+        <param name="Марка">LUXUDA LZC9506BG</param>
+        <param name="Модель">LZC9506BG</param>
+        <param name="Габариты (ДхШхВ)">17000х2550х3900мм</param>
+        <param name="Грузоподъемность">28 тонн</param>
+        <param name="Подвеска">3 оси пневматическая. 1-ая ось подъемная</param>
+        <param name="Подъемные механизмы">Гидравлические</param>
+        <param name="Система удлинения рабочей площадки">Гидравлическая</param>
+        <param name="Система козления">Гидравлическая</param>
+        <param name="Тип прицепа">Автовоз-контейнеровоз (гидравлический)</param>
+        <param name="Габариты">17000 х 2550 х 3900 мм</param>
+        <param name="Грузоподъёмность">28 000 кг</param>
+        <param name="Кол-во осей">3 (BPW), 1-я подъёмная</param>
+      </offer>
+      <offer id="juyun-lyz9222tcl" available="true">
+        <url>https://tral-diler.ru/catalog/avtovoz/juyun-lyz9222tcl</url>
+        <price>6300000.00</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>535553</categoryId>
+        <picture>https://static.tildacdn.com/stor6265-3637-4333-a336-316565373061/3d6eb2d3163d156c97335239da11e055.webp</picture>
+        <picture>https://static.tildacdn.com/stor3535-3330-4439-b435-356461613763/a3b56c4edb94f78a37d3b86a8d4c8580.webp</picture>
+        <picture>https://static.tildacdn.com/tild3231-3236-4563-b966-346365353538/431.webp</picture>
+        <name>Автовоз-контейнеровоз полуприцеп JUYUN (Джуюн) LYZ9222TCL на 8 машин</name>
+        <typePrefix>Автовоз для транспортировки 8 машин</typePrefix>
+        <vendor>JUYUN</vendor>
+        <model>LYZ9222TCL</model>
+        <description>Универсальный автовоз-контейнеровоз JUYUN LYZ9222TCL: 8 авто или 40-футовый контейнер. Усиленный, оси BPW, 1-я подъёмная, ABS WABCO. Гарантия 1,5 года, лизинг, поставка по РФ.</description>
+        <param name="Тип">Автовоз для транспортировки 8 машин</param>
+        <param name="Марка">JUYUN LYZ9222TCL</param>
+        <param name="Модель">LYZ9222TCL</param>
+        <param name="Габариты (ДхШхВ)">17 100 × 2 550 × 3 910 мм</param>
+        <param name="Грузоподъемность">27 300 кг</param>
+        <param name="Подвеска">3 (1-я подъёмная)</param>
+        <param name="Подъемные механизмы">Гидравлические</param>
+        <param name="Система удлинения рабочей площадки">Гидравлическая</param>
+        <param name="Система козления">Гидравлическая</param>
+        <param name="Тип прицепа">Автовоз-контейнеровоз (8 авто)</param>
+        <param name="Габариты">17 100 × 2 550 × 3 910 мм</param>
+        <param name="Грузоподъёмность">27 300 кг</param>
+        <param name="Кол-во осей">3 (1-я подъёмная)</param>
+      </offer>
+      <offer id="luxuda-lzc9506bg-seryy" available="true">
+        <url>https://tral-diler.ru/catalog/avtovoz/luxuda-lzc9506bg-seryy</url>
+        <price>6300000.00</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>535553</categoryId>
+        <picture>https://static.tildacdn.com/stor3162-3036-4037-a464-313134653061/aef5c46fd1681c953cd8fafd4a946694.webp</picture>
+        <picture>https://static.tildacdn.com/stor6663-6639-4230-b263-323065656633/c918ed24dbeea5f931269293452ad42d.webp</picture>
+        <picture>https://static.tildacdn.com/tild3263-3337-4133-a363-656131373564/autovoz-konteinerovo.webp</picture>
+        <name>Автовоз-контейнеровоз LUXUDA (Люксуда) LZC9506BG (серый)</name>
+        <typePrefix>Автовоз для транспортировки 8 машин</typePrefix>
+        <vendor>LUXUDA</vendor>
+        <model>LZC9506BG</model>
+        <description>Автовоз-контейнеровоз LUXUDA LZC9506BG в сером цвете: перевозка 8 авто и контейнеров 20/40, оси BPW, гидравлический подъём, пневмоподвеска. Поставка по РФ, лизинг.</description>
+        <param name="Тип">Автовоз для транспортировки 8 машин</param>
+        <param name="Марка">LUXUDA LZC9506BG</param>
+        <param name="Модель">LZC9506BG</param>
+        <param name="Габариты (ДхШхВ)">17000х2550х3900мм</param>
+        <param name="Грузоподъемность">28 тонн</param>
+        <param name="Подвеска">3 оси пневматическая. 1-ая ось подъемная</param>
+        <param name="Подъемные механизмы">Гидравлические</param>
+        <param name="Система удлинения рабочей площадки">Гидравлическая</param>
+        <param name="Система козления">Гидравлическая</param>
+        <param name="Тип прицепа">Автовоз-контейнеровоз (гидравлический)</param>
+        <param name="Габариты">17000 х 2550 х 3900 мм</param>
+        <param name="Грузоподъёмность">28 000 кг</param>
+        <param name="Кол-во осей">3 (BPW), 1-я подъёмная</param>
+      </offer>
+      <offer id="amur-lyr9400tjzd" available="true">
+        <url>https://tral-diler.ru/catalog/container/amur-lyr9400tjzd</url>
+        <price>4000000.00</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>1201859611</categoryId>
+        <picture>https://static.tildacdn.com/stor3634-6531-4538-b436-396264396630/79426e560b816f9e7e94637b558b3254.webp</picture>
+        <picture>https://static.tildacdn.com/stor6431-3133-4331-b864-643438393162/8054c474770d24acb9d5500924ecc714.webp</picture>
+        <picture>https://static.tildacdn.com/tild3930-6331-4164-b835-313338326234/32.webp</picture>
+        <name>Контейнеровоз полуприцеп AMUR (Амур) LYR9400TJZD</name>
+        <typePrefix>Контейнеровоз полуприцеп</typePrefix>
+        <vendor>AMUR</vendor>
+        <model>LYR9400TJZD</model>
+        <description>Контейнеровоз AMUR LYR9400TJZD для перевозки 20- и 40-футовых контейнеров. Грузоподъемность, оси, конструкция рамы и поставка по России.</description>
+        <param name="Модель">LYR9400TJZD</param>
+        <param name="Габариты (Д х Ш х В)">12600 х 2550 х 1170+-20</param>
+        <param name="Грузоподъемность">40 тонн</param>
+        <param name="Подвеска">Пневматическая</param>
+        <param name="Количество осей">3 (1-ая ось подъемная)</param>
+        <param name="Марка">AMUR LYR9400TJZD</param>
+        <param name="Тип прицепа">Контейнеровоз полуприцеп</param>
+        <param name="Габариты">12600 х 2550 х 1170 (+/-) 20 мм</param>
+        <param name="Грузоподъёмность">40 000 кг</param>
+        <param name="Кол-во осей">3</param>
+      </offer>
+      <offer id="amur-lyr9400tjzd-vertikalnaya-vygruzka" available="true">
+        <url>https://tral-diler.ru/catalog/container/amur-lyr9400tjzd-vertikalnaya-vygruzka</url>
+        <price>6500000.00</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>1201859611</categoryId>
+        <picture>https://static.tildacdn.com/stor3133-3361-4466-b230-663038653264/a850f69c14701f8225c96672486e97ee.webp</picture>
+        <picture>https://static.tildacdn.com/tild3337-3132-4331-b961-343234383132/containerovoz-polupr.webp</picture>
+        <name>Контейнеровоз AMUR (Амур) LYR9400TJZD с вертикальной выгрузкой</name>
+        <typePrefix>Контейнеровоз-самосвал (гидроопрокидывание)</typePrefix>
+        <vendor>AMUR</vendor>
+        <model>LYR9400TJZD</model>
+        <description>Контейнеровоз-самосвал AMUR LYR9400TJZD с вертикальной (гидравлической) выгрузкой: опрокидывание 20-футового контейнера, 3 оси, 30 т, мосты Fuwa, рама Q510, 6 гидроцилиндров. Поставка по РФ, ОТТС.</description>
+        <param name="Модель">LYR9400TJZD</param>
+        <param name="Габариты (Д х Ш х В)">8 201 × 2 500 × 1 880 мм</param>
+        <param name="Грузоподъемность">30 000 кг</param>
+        <param name="Подвеска">Пневматическая</param>
+        <param name="Количество осей">3 (1 подъёмная)</param>
+        <param name="Марка">AMUR LYR9400TJZD (вертикальная выгрузка)</param>
+        <param name="Тип прицепа">Контейнеровоз-самосвал (гидроопрокидывание)</param>
+        <param name="Габариты (Д×Ш×В)">8 201 × 2 500 × 1 880 мм</param>
+        <param name="Грузоподъёмность">30 000 кг</param>
+        <param name="Кол-во осей">3 (1 подъёмная)</param>
+      </offer>
+      <offer id="tongyada-cty9401tjw30" available="true">
+        <url>https://tral-diler.ru/catalog/container/tongyada-cty9401tjw30</url>
+        <price>4800000.00</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>1201859611</categoryId>
+        <picture>https://static.tildacdn.com/stor6234-3330-4264-b565-626461313734/b772030a3fe65fd17636ba79979403f2.webp</picture>
+        <picture>https://static.tildacdn.com/stor6536-3530-4034-a330-313134333034/124d0eb47366e06f965871703fcf7d37.webp</picture>
+        <picture>https://static.tildacdn.com/tild6437-6131-4461-b034-326131303464/kontainerovoz.webp</picture>
+        <name>Контейнеровоз полуприцеп TONGYADA (Тонгъяда) CTY9401TJW30</name>
+        <typePrefix>Контейнеровоз полуприцеп</typePrefix>
+        <vendor>TONGYADA</vendor>
+        <model>CTY9401TJW30</model>
+        <description>Контейнеровоз TONGYADA CTY9401TJW30 для перевозки 20- и 40-футовых контейнеров. Грузоподъёмность 40 т, 3 оси, пневмоподвеска, ABS/EBS. Поставка по РФ, лизинг, ОТТС.</description>
+        <param name="Модель">CTY9401TJW30</param>
+        <param name="Габариты (Д х Ш х В)">9 580 х 2500 х 1650</param>
+        <param name="Грузоподъемность">40 тонн</param>
+        <param name="Подвеска">Пневматическая</param>
+        <param name="Количество осей">3</param>
+        <param name="Марка">TONGYADA CTY9401TJW30</param>
+        <param name="Тип прицепа">Контейнеровоз полуприцеп</param>
+        <param name="Габариты">9 580 х 2500 х 1650</param>
+        <param name="Грузоподъёмность">40 000 кг</param>
+        <param name="Кол-во осей">3</param>
+      </offer>
+      <offer id="amur-lyr9500" available="true">
+        <url>https://tral-diler.ru/catalog/bortovyye/amur-lyr9500</url>
+        <price>5600000.00</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>991992357</categoryId>
+        <picture>https://static.tildacdn.com/stor6262-6335-4439-b731-636565633062/908c1f482d02d763b86c014d996e5daf.webp</picture>
+        <picture>https://static.tildacdn.com/stor6435-3664-4361-a436-343837376131/8a4bc1fa5ba4d99e8a9c6d633cc392c7.webp</picture>
+        <picture>https://static.tildacdn.com/tild3438-6330-4535-a635-393232333162/amur-bortovoy95001.webp</picture>
+        <name>Бортовой полуприцеп AMUR (Амур) LYR9500JSR — двускатный, база 14 м</name>
+        <typePrefix>Бортовой полуприцеп</typePrefix>
+        <vendor>AMUR</vendor>
+        <model>LYR9500JSR</model>
+        <description>Бортовой полуприцеп AMUR LYR9500JSR: 14 м, 50 т, двускатные колёса 315/80R22.5, рессорно-балансирная подвеска FUWA, тормоза ABS, фитинги 20/40, 2 бака. Поставка по РФ.</description>
+        <param name="Тип">Бортовой полуприцеп</param>
+        <param name="Марка">AMUR LYR9500JSR</param>
+        <param name="Модель">LYR9500JSR</param>
+        <param name="Габариты (ДхШхВ)">14000х2550х3900мм</param>
+        <param name="Грузоподъемность">50 тонн</param>
+        <param name="Подвеска">Рессорно-балансирная</param>
+        <param name="Тип прицепа">Бортовой двускатный (борт / лесовоз / контейнеровоз)</param>
+        <param name="Габариты (Д×Ш×В)">14000 х 2550 х 3900 мм</param>
+        <param name="Грузоподъёмность">50 000 кг</param>
+        <param name="Кол-во осей">2</param>
+      </offer>
+      <offer id="amur-lyr9500black" available="true">
+        <url>https://tral-diler.ru/catalog/bortovyye/amur-lyr9500black</url>
+        <price>5900000.00</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>991992357</categoryId>
+        <picture>https://static.tildacdn.com/stor6639-3238-4631-a433-386430363862/5620fffef5c076f75ef0f280212d5077.webp</picture>
+        <picture>https://static.tildacdn.com/stor3632-6638-4939-b230-333533343531/2b146ce87035e4db7282f610dd15f409.webp</picture>
+        <picture>https://static.tildacdn.com/tild3962-6533-4031-b037-323065313266/amur-bortovoy-polepr.webp</picture>
+        <name>Бортовой полуприцеп AMUR (Амур) LYR9500JSR — борт, лесовоз, контейнеровоз</name>
+        <typePrefix>Бортовой полуприцеп</typePrefix>
+        <vendor>AMUR</vendor>
+        <model>LYR9500JSR</model>
+        <description>Бортовой полуприцеп AMUR LYR9500JSR на 50 тонн: универсал «борт + лесовоз + контейнеровоз», ходовая BPW, фитинги 20/40, 12 выдвижных коников, баки 2×400 л с электронасосами. Поставка по РФ, ОТТС.</description>
+        <param name="Тип">Бортовой полуприцеп</param>
+        <param name="Марка">AMUR LYR9500JSR</param>
+        <param name="Модель">LYR9500JSR</param>
+        <param name="Габариты ( ДхШхВ)">13300х2550х3140мм</param>
+        <param name="Грузоподъемность">50 тонн</param>
+        <param name="Подвеска">2 оси BPW, рессорно-балансирная</param>
+        <param name="Тип прицепа">Бортовой (универсал: борт / лесовоз / контейнеровоз)</param>
+        <param name="Габариты (Д×Ш×В)">13300 х 2550 х 3140 мм</param>
+        <param name="Грузоподъёмность">50 000 кг</param>
+        <param name="Кол-во осей">2</param>
+      </offer>
+      <offer id="amur-lyr9500jsrd" available="true">
+        <url>https://tral-diler.ru/catalog/bortovyye/amur-lyr9500jsrd</url>
+        <price>4000000.00</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>991992357</categoryId>
+        <picture>https://static.tildacdn.com/stor3834-3563-4331-b565-626662646666/a11dc44ec3a39c2b200534c3479da177.webp</picture>
+        <picture>https://static.tildacdn.com/tild3663-6535-4639-a533-366233623563/bortovoi-amur9500.webp</picture>
+        <name>Бортовой односкатный полуприцеп AMUR (Амур) LYR9500JSRD</name>
+        <typePrefix>Бортовой полуприцеп</typePrefix>
+        <vendor>AMUR</vendor>
+        <model>LYR9500JSRD</model>
+        <description>Бортовой односкатный полуприцеп AMUR LYR9500JSRD: 50 т, ходовая FUWA балансир, односкатные колёса 425/65R22.5, тормоза WABCO ABS+EBS, фитинги 20/40 (8 шт.), 12 коников, 2 бака. В наличии 2024 г. Поставка по РФ, ОТТС.</description>
+        <param name="Тип">Бортовой полуприцеп</param>
+        <param name="Марка">AMUR LYR9500JSRD</param>
+        <param name="Модель">LYR9500JSRD</param>
+        <param name="Габариты ( ДхШхВ)">13 300 × 2 550 × 3 900 мм</param>
+        <param name="Грузоподъемность">50 000 кг</param>
+        <param name="Оси">2 шт., подвеска FUWA балансирная</param>
+        <param name="Колёса">односкатные</param>
+        <param name="Тип прицепа">Бортовой односкатный (борт / лесовоз / контейнеровоз)</param>
+        <param name="Габариты (Д×Ш×В)">13 300 × 2 550 × 3 900 мм</param>
+        <param name="Грузоподъёмность">50 000 кг</param>
+        <param name="Кол-во осей">2</param>
+      </offer>
+      <offer id="amur-lyr9500red" available="true">
+        <url>https://tral-diler.ru/catalog/bortovyye/amur-lyr9500red</url>
+        <price>3900000.00</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>991992357</categoryId>
+        <picture>https://static.tildacdn.com/stor6330-6264-4634-b839-326633643266/227c84380883f0f99234bd7df0ac411f.webp</picture>
+        <picture>https://static.tildacdn.com/stor3631-6235-4137-a563-303532313334/dbc9e70d0dabb6b8c64bf6a1e85fb9b4.webp</picture>
+        <picture>https://static.tildacdn.com/tild6431-6435-4333-a462-363362616465/bortovoiy.webp</picture>
+        <name>Бортовой полуприцеп AMUR (Амур) LYR9500JSR — красный</name>
+        <typePrefix>Бортовой полуприцеп</typePrefix>
+        <vendor>AMUR</vendor>
+        <model>LYR9500JSR</model>
+        <description>Бортовой полуприцеп AMUR LYR9500JSR в красном цвете: 14 м, 50 т, двускатные колёса 315/80R22.5, рессорно-балансирная подвеска FUWA, фитинги 20/40, 2 бака. Поставка по РФ.</description>
+        <param name="Тип">Бортовой полуприцеп</param>
+        <param name="Марка">AMUR LYR9500JSR</param>
+        <param name="Модель">LYR9500JSR</param>
+        <param name="Габариты ( ДхШхВ)">13300х2550х3140мм</param>
+        <param name="Грузоподъемность">50 тонн</param>
+        <param name="Подвеска">2 оси BPW, рессорно-балансирная</param>
+        <param name="Тип прицепа">Бортовой (борт / лесовоз / контейнеровоз)</param>
+        <param name="Габариты (Д×Ш×В)">14000 x 2550 x 3900 мм</param>
+        <param name="Грузоподъёмность">50 000 кг</param>
+        <param name="Кол-во осей">2</param>
+      </offer>
+      <offer id="amur-lyr9600js" available="true">
+        <url>https://tral-diler.ru/catalog/bortovyye/amur-lyr9600js</url>
+        <price>4250000.00</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>991992357</categoryId>
+        <picture>https://static.tildacdn.com/stor6431-6162-4264-b131-323233366331/24a3118e875372bc2a9aaab508203769.webp</picture>
+        <picture>https://static.tildacdn.com/stor3064-6430-4236-b638-376365356162/e72d461529e2f52ec58f250effbc3a79.webp</picture>
+        <picture>https://static.tildacdn.com/tild6264-6566-4231-a132-363366353066/amur-lyr9600js1.webp</picture>
+        <name>Бортовой полуприцеп AMUR LYR9600JS — лесовоз-контейнеровоз, 60 тонн</name>
+        <typePrefix>Бортовой полуприцеп</typePrefix>
+        <vendor>AMUR</vendor>
+        <model>LYR9600JS</model>
+        <description>Бортовой полуприцеп AMUR LYR9600JS: длина 14,5 м, 60 тонн, 3 оси FUWA, рессорная подвеска, 6 пар коников, фитинги 20/40, два бака по 400 л. Лесовоз и контейнеровоз.</description>
+        <param name="Тип">Бортовой полуприцеп</param>
+        <param name="Марка">AMUR LYR9600JS</param>
+        <param name="Модель">LYR9600JS</param>
+        <param name="Габариты (ДхШхВ)">14500х2550х3710мм</param>
+        <param name="Грузоподъемность">60 тонн</param>
+        <param name="Подвеска">Рессорная</param>
+        <param name="Тип прицепа">Бортовой (лесовоз / контейнеровоз)</param>
+        <param name="Габариты (Д×Ш×В)">14500 х 2550 х 3710 мм</param>
+        <param name="Грузоподъёмность">60 000 кг</param>
+        <param name="Кол-во осей">3</param>
+      </offer>
+      <offer id="amur-lyr9600" available="true">
+        <url>https://tral-diler.ru/catalog/bortovyye/amur-lyr9600</url>
+        <price>3990000.00</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>991992357</categoryId>
+        <picture>https://static.tildacdn.com/stor6162-3434-4937-a363-623931356530/3763cdd58671034f1c4909bd60c07258.webp</picture>
+        <picture>https://static.tildacdn.com/stor3234-6534-4466-a430-363032306531/1ad4595b1bd2120a70ba5648bf61690b.webp</picture>
+        <picture>https://static.tildacdn.com/tild3537-3236-4262-b032-646438373930/amur-bortovoiy.webp</picture>
+        <name>Бортовой полуприцеп AMUR (Амур) LYR9600JS — 3 оси, 60 тонн</name>
+        <typePrefix>Бортовой полуприцеп</typePrefix>
+        <vendor>AMUR</vendor>
+        <model>LYR9600JS</model>
+        <description>Бортовой полуприцеп AMUR LYR9600JS: 3 оси, 60 тонн, 13,3 м, рессорная подвеска FUWA, тормоза ABS, колёса 315/80 R22.5, 12 коников, фитинги 20/40. Поставка по РФ.</description>
+        <param name="Тип">Бортовой полуприцеп</param>
+        <param name="Марка">AMUR LYR9600JS</param>
+        <param name="Модель">LYR9600JS</param>
+        <param name="Габариты (ДхШхВ)">13300х2550х3760мм</param>
+        <param name="Грузоподъемность">60 тонн</param>
+        <param name="Подвеска">Рессорная</param>
+        <param name="Тип прицепа">Бортовой (борт / лесовоз / контейнеровоз)</param>
+        <param name="Габариты (Д×Ш×В)">13300 х 2550 х 3760 мм</param>
+        <param name="Грузоподъёмность">60 000 кг</param>
+        <param name="Кол-во осей">3</param>
+      </offer>
+      <offer id="amur-lyr9600js-blue" available="true">
+        <url>https://tral-diler.ru/catalog/bortovyye/amur-lyr9600js-blue</url>
+        <price>4200000.00</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>991992357</categoryId>
+        <picture>https://static.tildacdn.com/stor3162-3838-4330-a431-616635626432/fbb486ce87a5b28dcd48cc7f020037df.webp</picture>
+        <picture>https://static.tildacdn.com/stor6432-3362-4133-b933-636639316538/5b7d10443d43db8eb64afd613f4c7e9e.webp</picture>
+        <picture>https://static.tildacdn.com/tild3736-3365-4633-a139-326238343439/amur-lyr9600js2.webp</picture>
+        <name>Бортовой полуприцеп AMUR LYR9600JS — 40 тонн, пневмоподвеска</name>
+        <typePrefix>Бортовой полуприцеп</typePrefix>
+        <vendor>AMUR</vendor>
+        <model>LYR9600JS</model>
+        <description>Бортовой полуприцеп AMUR LYR9600JS: 13,3 м, 40 тонн, 3 оси BPW, пневмоподвеска, дисковые тормоза ABS, 12 коников, фитинги 20/40. Лесовоз и контейнеровоз, поставка по РФ.</description>
+        <param name="Тип">Бортовой полуприцеп</param>
+        <param name="Марка">AMUR LYR9600JS</param>
+        <param name="Модель">LYR9600JS</param>
+        <param name="Габариты (ДхШхВ)">13300х2550х3760мм</param>
+        <param name="Грузоподъемность">40 тонн</param>
+        <param name="Подвеска">Пневматическая</param>
+        <param name="Тормозная система">Дисковая с ABS</param>
+        <param name="Тип прицепа">Бортовой (лесовоз / контейнеровоз)</param>
+        <param name="Габариты (Д×Ш×В)">13300 х 2550 х 3760 мм</param>
+        <param name="Грузоподъёмность">40 000 кг</param>
+        <param name="Кол-во осей">3</param>
+      </offer>
+      <offer id="amur-lyr9600js-blue2" available="true">
+        <url>https://tral-diler.ru/catalog/bortovyye/amur-lyr9600js-blue2</url>
+        <price>5050000.00</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>991992357</categoryId>
+        <picture>https://static.tildacdn.com/stor3464-6163-4230-a334-656637396166/33b91acd4c2de33a17e6c8aeda394837.webp</picture>
+        <picture>https://static.tildacdn.com/stor6464-3032-4263-b931-643538363666/5c2378350ec78cacd30093a5ae5c1026.webp</picture>
+        <picture>https://static.tildacdn.com/tild3264-3435-4633-a563-323234346337/amur9600.webp</picture>
+        <name>Бортовой полуприцеп AMUR LYR9600JS — 40 тонн, пневмо с подъёмной осью</name>
+        <typePrefix>Бортовой полуприцеп</typePrefix>
+        <vendor>AMUR</vendor>
+        <model>LYR9600JS</model>
+        <description>Бортовой полуприцеп AMUR LYR9600JS: 13,3 м, 40 тонн, 3 оси BPW, пневмоподвеска с подъёмной 1-й осью, дисковые тормоза ABS, 12 коников, фитинги 20/40. Поставка по РФ.</description>
+        <param name="Тип">Бортовой полуприцеп</param>
+        <param name="Марка">AMUR LYR9600JS</param>
+        <param name="Модель">LYR9600JS</param>
+        <param name="Габариты (ДхШхВ)">13300х2550х3760мм</param>
+        <param name="Грузоподъемность">40 тонн</param>
+        <param name="Подвеска">Пневматическая. 1-ая ось подъемная</param>
+        <param name="Тормозная система">Дисковая с ABS</param>
+        <param name="Тип прицепа">Бортовой (лесовоз / контейнеровоз)</param>
+        <param name="Габариты (Д×Ш×В)">13300 х 2550 х 3760 мм</param>
+        <param name="Грузоподъёмность">40 000 кг</param>
+        <param name="Кол-во осей">3</param>
+      </offer>
+      <offer id="tongyada-cty9603-lbs-siniy" available="true">
+        <url>https://tral-diler.ru/catalog/bortovyye/tongyada-cty9603-lbs-siniy</url>
+        <price>5150000.00</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>991992357</categoryId>
+        <picture>https://static.tildacdn.com/stor6231-3262-4934-a265-316235396434/dbe08af6a21f732fb21d645fca0917b1.webp</picture>
+        <picture>https://static.tildacdn.com/stor3332-3264-4765-b764-386133356631/becd8fc6b2de92b861b5b295d5faba5d.webp</picture>
+        <picture>https://static.tildacdn.com/tild3964-6637-4766-a639-393135653065/5N6A5075.webp</picture>
+        <name>Бортовой полуприцеп TONGYADA (Тонгъяда) CTY9603LBS</name>
+        <typePrefix>Бортовой полуприцеп</typePrefix>
+        <vendor>TONGYADA</vendor>
+        <model>CTY9603LBS</model>
+        <description>Бортовой полуприцеп TONGYADA CTY9603LBS (Тонгъяда) в синем цвете: 3 оси FUWA, грузоподъёмность 49 500 кг, KTL-покраска, тормоза WABCO ABS. Поставка по РФ, лизинг.</description>
+        <param name="Тип">Бортовой полуприцеп</param>
+        <param name="Марка">TONGYADA CTY9603LBS</param>
+        <param name="Модель">CTY9603LBS</param>
+        <param name="Габариты (ДхШхВ)">14500х2550х3800мм</param>
+        <param name="Грузоподъемность">60 тонн</param>
+        <param name="Подвеска">Рессорная. Оси FUWA</param>
+        <param name="Тормозная система">Барабанная WABCO ABS</param>
+        <param name="Тип прицепа">Бортовой полуприцеп</param>
+        <param name="Габариты">14500 × 2 550 × 3800 мм</param>
+        <param name="Грузоподъёмность">60 000 кг</param>
+        <param name="Кол-во осей">3</param>
+      </offer>
+      <offer id="tongyada-cty9603-lbs" available="true">
+        <url>https://tral-diler.ru/catalog/bortovyye/tongyada-cty9603-lbs</url>
+        <price>5150000.00</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>991992357</categoryId>
+        <picture>https://static.tildacdn.com/stor3232-3564-4638-b031-653765633132/96ce1bb36a122c188b625d1bb37bde97.webp</picture>
+        <picture>https://static.tildacdn.com/stor3734-3130-4837-b866-333636303734/9d78d8ec5da0d9e8b3895feaeb1c44eb.webp</picture>
+        <picture>https://static.tildacdn.com/tild6461-3563-4436-b330-653465373265/bortovoy-poleupricep.webp</picture>
+        <name>Бортовой полуприцеп TONGYADA (Тонгъяда) CTY9603LBS — борт, лесовоз, контейнеровоз</name>
+        <typePrefix>Бортовой полуприцеп</typePrefix>
+        <vendor>TONGYADA</vendor>
+        <model>CTY9603LBS</model>
+        <description>Бортовой полуприцеп TONGYADA CTY9603LBS: универсал борт/лесовоз/контейнеровоз, 3 оси FUWA, грузоподъёмность 49 500 кг, платформа 14,3 м, KTL-покраска кузова, 12 коников, 8 контейнерных замков, баки 2×500 л. Поставка по РФ.</description>
+        <param name="Тип">Бортовой полуприцеп</param>
+        <param name="Марка">TONGYADA CTY9603LBS</param>
+        <param name="Модель">CTY9603LBS</param>
+        <param name="Габариты (ДхШхВ)">14500х2550х3800мм</param>
+        <param name="Грузоподъемность">60 тонн</param>
+        <param name="Подвеска">Рессорная. Оси FUWA</param>
+        <param name="Тормозная система">Барабанная WABCO ABS</param>
+        <param name="Тип прицепа">Бортовой (борт / лесовоз / контейнеровоз)</param>
+        <param name="Габариты">14500 × 2 550 × 3800 мм</param>
+        <param name="Грузоподъёмность">60 000 кг, 49 500 кг (по ПТС)</param>
+        <param name="Кол-во осей">3</param>
+      </offer>
+      <offer id="amur-lyr9600-silver" available="true">
+        <url>https://tral-diler.ru/catalog/bortovyye/amur-lyr9600-silver</url>
+        <price>4150000.00</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>991992357</categoryId>
+        <picture>https://static.tildacdn.com/stor3865-3535-4538-b832-323738633833/2c546dd3e58d6cf4d341e71a3c691066.webp</picture>
+        <picture>https://static.tildacdn.com/stor6235-3136-4633-a164-316632653734/0f0483b96955e1fa051aef7e879e1b56.webp</picture>
+        <picture>https://static.tildacdn.com/tild6436-3633-4132-b361-333134366634/amur-lyr9600js-1.webp</picture>
+        <name>Бортовой полуприцеп AMUR LYR9600JS — 60 тонн (серое исполнение)</name>
+        <typePrefix>Бортовой полуприцеп</typePrefix>
+        <vendor>AMUR</vendor>
+        <model>LYR9600JS</model>
+        <description>Бортовой полуприцеп AMUR LYR9600JS в сером исполнении: 14,5 м, 60 тонн, 3 оси FUWA, рессорная подвеска, 2 бака по 400 л, фитинги 20/40. Лесовоз и контейнеровоз.</description>
+        <param name="Тип">Бортовой полуприцеп</param>
+        <param name="Марка">AMUR LYR9600JS</param>
+        <param name="Модель">LYR9600JS</param>
+        <param name="Габариты (ДхШхВ)">14500х2550х3710 мм</param>
+        <param name="Грузоподъемность">60 тонн</param>
+        <param name="Подвеска">Рессорная, ABC</param>
+        <param name="Тормозная система">Барабанная с ABS</param>
+        <param name="Коники">10 шт.</param>
+        <param name="Тип прицепа">Бортовой (лесовоз / контейнеровоз)</param>
+        <param name="Габариты (Д×Ш×В)">14500 х 2550 х 3710 мм</param>
+        <param name="Грузоподъёмность">60 000 кг</param>
+        <param name="Кол-во осей">3</param>
+      </offer>
+      <offer id="luxuda-lzc9408" available="true">
+        <url>https://tral-diler.ru/catalog/bortovyye/luxuda-lzc9408</url>
+        <price>4190000.00</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>991992357</categoryId>
+        <picture>https://static.tildacdn.com/stor6462-3865-4733-b933-616163613731/bf398109bae994857243e0ae5cb14f89.webp</picture>
+        <picture>https://static.tildacdn.com/stor3430-6564-4239-b731-626639653262/793fcd05d45e23b162ac4de9e42ee030.webp</picture>
+        <picture>https://static.tildacdn.com/tild3739-3064-4633-b037-323232376437/Slide_16_9_-_1334.webp</picture>
+        <name>Бортовой полуприцеп LUXUDA (Люксуда) LZC9408 — 3 оси, 49 тонн</name>
+        <typePrefix>Бортовой полуприцеп</typePrefix>
+        <vendor>LUXUDA</vendor>
+        <model>LZC9408</model>
+        <description>Бортовой полуприцеп LUXUDA LZC9408: 3 оси, 49 тонн, 14,5 м, рессорная подвеска FUWA, тормоза WABCO ABS, колёса 315/80 R22.5, фитинги 20/40, 2 бака. Поставка по РФ.</description>
+        <param name="Тип">Бортовой полуприцеп</param>
+        <param name="Марка">LUXUDA LZC9408</param>
+        <param name="Модель">LZC9408</param>
+        <param name="Габариты (ДхШхВ)">14500x2550x3900мм</param>
+        <param name="Грузоподъемность">49 тонн</param>
+        <param name="Подвеска">Рессорная</param>
+        <param name="Дополнительно">Фитинги под контейнеры 20/40 фут.</param>
+        <param name="Тип прицепа">Бортовой (борт / лесовоз / контейнеровоз)</param>
+        <param name="Габариты (Д×Ш×В)">14500 x 2550 x 3900 мм</param>
+        <param name="Грузоподъёмность">49 000 кг</param>
+        <param name="Кол-во осей">3</param>
+      </offer>
+      <offer id="amur-lyr9400jsd" available="true">
+        <url>https://tral-diler.ru/catalog/bortovyye/amur-lyr9400jsd</url>
+        <price>4700000.00</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>991992357</categoryId>
+        <picture>https://static.tildacdn.com/stor3230-3839-4961-b363-373935353466/36af96d164bbfc0cd833a29b0959a6de.webp</picture>
+        <picture>https://static.tildacdn.com/tild6531-3934-4538-b366-656365346134/bortovoy-amur.webp</picture>
+        <name>Бортовой односкатный полуприцеп AMUR (Амур) LYR9400JSD, 3 оси</name>
+        <typePrefix>Бортовой односкатный (борт / лесовоз / контейнеровоз)</typePrefix>
+        <vendor>AMUR</vendor>
+        <model>LYR9401JSD</model>
+        <description>Бортовой односкатный полуприцеп AMUR LYR9400JSD: 40 т, 3 оси BPW (1 подъёмная), пневмоподвеска, колёса 385/65R22.5 на алюминиевых дисках, тормоза WABCO ABS+EBS, фитинги 20/40, 12 коников. В наличии. ОТТС, поставка по РФ.</description>
+        <param name="Тип">Бортовой односкатный (борт / лесовоз / контейнеровоз)</param>
+        <param name="Марка">AMUR LYR9400JSD</param>
+        <param name="Модель">LYR9401JSD</param>
+        <param name="Габариты (ДхШхВ)">14000х2550х3500мм</param>
+        <param name="Грузоподъемность">40 тонн</param>
+        <param name="Подвеска">Пневматическая</param>
+        <param name="Тип прицепа">Бортовой односкатный (борт / лесовоз / контейнеровоз)</param>
+        <param name="Габариты (Д×Ш×В)">14000 х 2550 х 3500 мм</param>
+        <param name="Грузоподъёмность">40 000 кг</param>
+        <param name="Кол-во осей">3 (1 подъёмная)</param>
+      </offer>
+      <offer id="amur-lyr9600jsd" available="true">
+        <url>https://tral-diler.ru/catalog/bortovyye/amur-lyr9600jsd</url>
+        <price>4700000.00</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>991992357</categoryId>
+        <picture>https://static.tildacdn.com/stor3663-6330-4836-a365-636438663535/8dee6975ba0480e58e47a58c9328e797.webp</picture>
+        <picture>https://static.tildacdn.com/tild3662-3533-4661-b338-613338306632/amur9600.webp</picture>
+        <name>Бортовой односкатный полуприцеп AMUR (Амур) LYR9600JSD с кониками, 3 оси</name>
+        <typePrefix>Бортовой односкатный (борт / лесовоз / контейнеровоз)</typePrefix>
+        <vendor>AMUR</vendor>
+        <model>LYR9401JSD</model>
+        <description>Бортовой односкатный полуприцеп AMUR LYR9600JSD: 45 т, 3 оси BPW (1 подъёмная), пневмоподвеска, колёса 385/65R22.5 на алюминиевых дисках, тормоза WABCO, 12 коников, фитинги 20/40. ОТТС, поставка по РФ.</description>
+        <param name="Тип">Бортовой односкатный (борт / лесовоз / контейнеровоз)</param>
+        <param name="Марка">AMUR LYR9600JSD</param>
+        <param name="Модель">LYR9401JSD</param>
+        <param name="Габариты (ДхШхВ)">14000х2550х3500мм</param>
+        <param name="Грузоподъемность">45 000 кг</param>
+        <param name="Снаряжённая масса">7 120 кг</param>
+        <param name="Подвеска">Пневматическая</param>
+        <param name="Тип прицепа">Бортовой односкатный (борт / лесовоз / контейнеровоз)</param>
+        <param name="Габариты (Д×Ш×В)">14000 х 2550 х 3500 мм</param>
+        <param name="Грузоподъёмность">45 000 кг</param>
+        <param name="Кол-во осей">3 (1 подъёмная)</param>
+      </offer>
+      <offer id="amur-lyr9601js" available="true">
+        <url>https://tral-diler.ru/catalog/bortovyye/amur-lyr9601js</url>
+        <price>6300000.00</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>991992357</categoryId>
+        <picture>https://static.tildacdn.com/stor6532-6431-4633-b462-313738373432/37960811fa5abeb7698a003c28a43e60.webp</picture>
+        <picture>https://static.tildacdn.com/stor3135-3765-4162-b362-333964663436/414d939d35bfcce7a5ba5b58373f78a3.webp</picture>
+        <picture>https://static.tildacdn.com/tild3730-3330-4261-b532-623863346565/amur-9601.webp</picture>
+        <name>Бортовой полуприцеп AMUR (Амур) LYR9601JS — 4 оси, 16,5 м</name>
+        <typePrefix>Бортовой полуприцеп</typePrefix>
+        <vendor>AMUR</vendor>
+        <model>LYR9601JS</model>
+        <description>Бортовой полуприцеп AMUR LYR9601JS: 4 оси, 16,5 м, 60 тонн, комбинированная подвеска с подъёмной 1-й осью, ходовая FUWA, тормоза ABS, фитинги 20/40. Поставка по РФ.</description>
+        <param name="Тип">Бортовой полуприцеп</param>
+        <param name="Марка">AMUR LYR9601JS</param>
+        <param name="Модель">LYR9601JS</param>
+        <param name="Габариты (ДхШхВ)">16500х2550х3760мм</param>
+        <param name="Грузоподъемность">60 тонн</param>
+        <param name="Подвеска">1-ая ось пневматическая. 2, 3, 4 оси — рессорные</param>
+        <param name="Тип прицепа">Бортовой (борт / лесовоз / контейнеровоз)</param>
+        <param name="Габариты (Д×Ш×В)">16500 х 2550 х 3760 мм</param>
+        <param name="Грузоподъёмность">60 000 кг</param>
+        <param name="Кол-во осей">4</param>
+      </offer>
+      <offer id="tongyada-cty9704lbs" available="true">
+        <url>https://tral-diler.ru/catalog/bortovyye/tongyada-cty9704lbs</url>
+        <price>5990000.00</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>991992357</categoryId>
+        <picture>https://static.tildacdn.com/stor3131-3462-4261-a362-633438313433/34c8023c08c1672cded67e9baf603c02.webp</picture>
+        <picture>https://static.tildacdn.com/stor3565-3465-4262-b932-393764313239/1e9853008059dc4a096be9302ec2db36.webp</picture>
+        <picture>https://static.tildacdn.com/tild3930-6332-4331-b631-313939316339/tongyada-bortovoiy.webp</picture>
+        <name>Бортовой полуприцеп TONGYADA (Тонгяда) CTY9704LBS — 4 оси, 80 тонн</name>
+        <typePrefix>Бортовой полуприцеп</typePrefix>
+        <vendor>TONGYADA</vendor>
+        <model>CTY9704LBS</model>
+        <description>Бортовой полуприцеп TONGYADA CTY9704LBS: 4 оси, 80 тонн, 16,5 м, две балансирные телеги FUWA, двускатные колёса 315/80 R22.5, 12 коников, фитинги 20/40. Поставка по РФ.</description>
+        <param name="Тип">Бортовой полуприцеп</param>
+        <param name="Марка">TONGYADA CTY9704LBS</param>
+        <param name="Модель">CTY9704LBS</param>
+        <param name="Габариты (ДхШхВ)">16500х2550х3760мм</param>
+        <param name="Грузоподъемность">80 тонн</param>
+        <param name="Подвеска">2 балансирные телеги</param>
+        <param name="Тип прицепа">Бортовой (борт / лесовоз / контейнеровоз)</param>
+        <param name="Габариты (Д×Ш×В)">16500 х 2550 х 3760 мм</param>
+        <param name="Грузоподъёмность">80 000 кг</param>
+        <param name="Кол-во осей">4</param>
+      </offer>
+      <offer id="luxuda-lzc9401xlc" available="true">
+        <url>https://tral-diler.ru/catalog/refrizheratory/luxuda-lzc9401xlc</url>
+        <price>7600000.00</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>1258709000</categoryId>
+        <picture>https://static.tildacdn.com/stor6661-3732-4038-b962-313138663864/a35bc4e863f8fcd18d25046a9a4426d7.webp</picture>
+        <picture>https://static.tildacdn.com/stor3465-3237-4262-b365-366639363933/fdcd4288b6b494c5b88bd3eb06109554.webp</picture>
+        <picture>https://static.tildacdn.com/tild6435-3463-4536-b364-656663383666/luxuda-polupricep_1.webp</picture>
+        <name>Полуприцеп рефрижератор LUXUDA (Люксуда) LZC9401XLC (14 м)</name>
+        <typePrefix>Полуприцеп-рефрижератор</typePrefix>
+        <vendor>LUXUDA</vendor>
+        <model>LZC9401XLC</model>
+        <description>Рефрижератор LUXUDA LZC9401XLC — полуприцеп для перевозки грузов. Доставка за 14 дней, выгодная цена, гарантия, прямые поставки из Китая.</description>
+        <param name="Тип">Полуприцеп-рефрижератор</param>
+        <param name="Марка">LUXUDA LZC9401XLC</param>
+        <param name="Модель">LZC9401XLC</param>
+        <param name="Габариты (ДхШхВ)">14200х2550х3990мм</param>
+        <param name="Грузоподъемность">37.2 тонн</param>
+        <param name="Подвеска">Пневматическая</param>
+        <param name="Объем">79 м 3 / 28 паллетов</param>
+        <param name="Рефрижераторная установка">CARRIER 7300X4 (Автономный)</param>
+        <param name="Тип прицепа">Рефрижераторный полуприцеп</param>
+        <param name="Габариты">14200 х 2550 х 3990 мм</param>
+        <param name="Грузоподъёмность">37 200 кг</param>
+        <param name="Кол-во осей">3</param>
+      </offer>
+      <offer id="luxuda-lzc9401xlc-2" available="true">
+        <url>https://tral-diler.ru/catalog/refrizheratory/luxuda-lzc9401xlc-2</url>
+        <price>9550000.00</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>1258709000</categoryId>
+        <picture>https://static.tildacdn.com/stor6430-3539-4232-b138-333236626462/5600cec52aafc3a74ebfc2935ceb60b3.webp</picture>
+        <picture>https://static.tildacdn.com/stor3937-3736-4833-b836-663333353436/bc1be2e565a5f877a9a67eca7e3c3b7d.webp</picture>
+        <picture>https://static.tildacdn.com/tild3965-3031-4133-a235-363765333162/polupricep-ref.webp</picture>
+        <name>Полуприцеп рефрижератор LUXUDA (Люксуда) LZC9401XLC</name>
+        <typePrefix>Полуприцеп рефрижератор</typePrefix>
+        <vendor>LUXUDA</vendor>
+        <model>LZC9401XLC</model>
+        <description>Рефрижераторный полуприцеп LUXUDA LZC9401XLC: длина 16,5 м, объём 105 м³, 32 паллета, установка KAILI X-7300 (аналог Carrier), усиленная рама, оси FUWA. Купить из Китая, лизинг.</description>
+        <param name="Тип">Полуприцеп рефрижератор</param>
+        <param name="Марка">LUXUDA LZC9401XLC</param>
+        <param name="Модель">LZC9401XLC</param>
+        <param name="Габариты (ДхШхВ)">16500 × 2600 × 3980 мм</param>
+        <param name="Грузоподъемность">40 тонн</param>
+        <param name="Подвеска">Пневматическая</param>
+        <param name="Объем">105 м³ / 32 паллета</param>
+        <param name="Рефрижераторная установка">KAILI X-7300 (аналог CARRIER)</param>
+        <param name="Тип прицепа">Рефрижераторный полуприцеп</param>
+        <param name="Габариты">16500 × 2600 × 3980 мм</param>
+        <param name="Грузоподъёмность">40 000 кг</param>
+        <param name="Кол-во осей">3</param>
+      </offer>
+      <offer id="amur-lyr9400xxyed" available="true">
+        <url>https://tral-diler.ru/catalog/refrizheratory/amur-lyr9400xxyed</url>
+        <price>7500000.00</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>1258709000</categoryId>
+        <picture>https://static.tildacdn.com/stor6234-3038-4438-a233-656332343439/fa679b49830b5a1c167f015994aa4f5c.webp</picture>
+        <picture>https://static.tildacdn.com/stor3131-3136-4635-b833-353133383031/3c90b6b31d0f9089fa291f1a34610847.webp</picture>
+        <picture>https://static.tildacdn.com/tild6338-3339-4862-b737-373530663165/amur-refrizherator-p.webp</picture>
+        <name>Полуприцеп рефрижератор LUXUDA (Люксуда) LZC9401XLC (14 м)</name>
+        <typePrefix>Полуприцеп рефрижератор</typePrefix>
+        <vendor>AMUR</vendor>
+        <model>LYR9400XXYED</model>
+        <description>ефрижераторный полуприцеп AMUR LYR9400XXYED: длина 14,5 м, внутренний объём кузова 13810×2465×2574 мм, 3 оси BPW (1 подъёмная), пневмоподвеска, холодильная установка Kaili 1550, дисковые тормоза WABCO. ОТТС, поставка по РФ.</description>
+        <param name="Тип">Полуприцеп рефрижератор</param>
+        <param name="Марка">AMUR LYR9400XXYED</param>
+        <param name="Модель">LYR9400XXYED</param>
+        <param name="Габариты (ДхШхВ)">14500 × 2600 × 4000 мм</param>
+        <param name="Грузоподъемность">40 тонн</param>
+        <param name="Подвеска">Пневматическая</param>
+        <param name="Объем">87 м³</param>
+        <param name="Холодильная установка">Kaili 1550</param>
+        <param name="Тип прицепа">Рефрижераторный полуприцеп</param>
+        <param name="Габариты (Д×Ш×В)">14 500 × 2 600 × 4 000 мм</param>
+        <param name="Грузоподъёмность">40 000 кг</param>
+        <param name="Кол-во осей">3 (1 подъёмная)</param>
+      </offer>
+      <offer id="amur-lyr9400xxy" available="true">
+        <url>https://tral-diler.ru/catalog/shtornyye/amur-lyr9400xxy</url>
+        <price>5900000.00</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>222441007</categoryId>
+        <picture>https://static.tildacdn.com/stor3939-3233-4264-b364-633430316333/dc04e9af8a6e71db8f147e4d5049c49e.webp</picture>
+        <picture>https://static.tildacdn.com/stor3961-3835-4734-b430-643130333566/8bdfe794f2b720e37d9224f9789b9efe.webp</picture>
+        <picture>https://static.tildacdn.com/tild3239-3534-4839-a434-333234656164/13241.webp</picture>
+        <name>Шторный полуприцеп AMUR (Амур) LYR9400XXY</name>
+        <typePrefix>Шторный полуприцеп (тентовый)</typePrefix>
+        <vendor>AMUR</vendor>
+        <model>LYR9400XXY</model>
+        <description>Шторный полуприцеп AMUR LYR9400XXY: объём 92 м³, 3 оси, подъёмная ось, собственная масса 7 т. Алюминиевый кузов, пневмоподвеска, тормоза WABCO ABS. Поставка из Китая, лизинг.</description>
+        <param name="Тип">Шторный полуприцеп (тентовый)</param>
+        <param name="Марка">AMUR LYR9400XXY</param>
+        <param name="Модель">LYR9400XXY</param>
+        <param name="Габариты (ДхШхВ)">14010х2542х4000мм</param>
+        <param name="Грузоподъемность">33 тонн</param>
+        <param name="Подвеска">Пневматическая</param>
+        <param name="Объем">92 м 3</param>
+        <param name="Тип прицепа">Шторный полуприцеп</param>
+        <param name="Габариты">14010 х 2542 х 4000 мм</param>
+        <param name="Грузоподъёмность">33 000 кг</param>
+        <param name="Кол-во осей">3</param>
+      </offer>
+      <offer id="luxuda-lzc9406xxycl" available="true">
+        <url>https://tral-diler.ru/catalog/shtornyye/luxuda-lzc9406xxycl</url>
+        <price>6400000.00</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>222441007</categoryId>
+        <picture>https://static.tildacdn.com/stor6565-6262-4938-a236-343038343663/d02263073666aa4cb22c0fe827106fa8.webp</picture>
+        <picture>https://static.tildacdn.com/stor3034-3434-4639-b765-386432613434/052e13795ce722666f0b0a1745e7d51b.webp</picture>
+        <picture>https://static.tildacdn.com/tild6331-3732-4338-b734-356362656566/3123.webp</picture>
+        <name>Шторный полуприцеп LUXUDA (Люксуда) LZC9406XXYCL</name>
+        <typePrefix>Шторный полуприцеп (тентовый)</typePrefix>
+        <vendor>LUXUDA</vendor>
+        <model>LZC9406XXYCL</model>
+        <description>Шторный LUXUDA LZC9406XXYCL — полуприцеп для перевозки грузов и палетов. Доставка за 14 дней, выгодная цена, гарантия, прямые поставки из Китая.</description>
+        <param name="Тип">Шторный полуприцеп (тентовый)</param>
+        <param name="Марка">LUXUDA LZC9406XXYCL</param>
+        <param name="Модель">LZC9406XXYCL</param>
+        <param name="Габариты (ДхШхВ)">16500х2550х3990мм</param>
+        <param name="Грузоподъемность">45 тонн</param>
+        <param name="Подвеска">Пневматическая, BPW</param>
+        <param name="Объем">110 м 3</param>
+        <param name="Тип прицепа">Шторный полуприцеп</param>
+        <param name="Габариты">16500 х 2550 х 3990 мм</param>
+        <param name="Грузоподъёмность">45 000 кг</param>
+        <param name="Кол-во осей">4</param>
+      </offer>
+      <offer id="amur-lyr9400zpd" available="true">
+        <url>https://tral-diler.ru/catalog/shtornyye/amur-lyr9400zpd</url>
+        <price>5660000.00</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>222441007</categoryId>
+        <picture>https://static.tildacdn.com/stor6136-6634-4062-a636-363230663565/1f2fc720287627b449aaed29b89fbb54.webp</picture>
+        <picture>https://static.tildacdn.com/tild6430-3030-4037-b261-396561653465/42542.webp</picture>
+        <name>Шторный полуприцеп AMUR (Амур) LYR9400ZPD</name>
+        <typePrefix>Шторный полуприцеп (тентовый)</typePrefix>
+        <vendor>AMUR</vendor>
+        <model>LYR9400ZPD</model>
+        <description>Шторный полуприцеп AMUR LYR9400ZPD: 110 м³, 4 оси, дисковые тормоза WABCO ABS+EBS, грузоподъёмность 50 т. Для магистральных перевозок объёмных грузов. Поставка из Китая, лизинг.</description>
+        <param name="Тип">Шторный полуприцеп (тентовый)</param>
+        <param name="Марка">AMUR LYR9400ZPD</param>
+        <param name="Модель">LYR9400ZPD</param>
+        <param name="Габариты (ДхШхВ)">16510х2580х4000мм</param>
+        <param name="Грузоподъемность">50 тонн</param>
+        <param name="Подвеска">Пневматическая, 1-ая ось подъемная</param>
+        <param name="Объем">110 м 3</param>
+        <param name="Тип прицепа">Шторный полуприцеп</param>
+        <param name="Габариты">16510 х 2580 х 4000 мм</param>
+        <param name="Грузоподъёмность">50 000 кг</param>
+        <param name="Кол-во осей">4</param>
+      </offer>
+      <offer id="amur-lyr9400xxye" available="true">
+        <url>https://tral-diler.ru/catalog/furgony/amur-lyr9400xxye</url>
+        <price>3900000.00</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>438977898</categoryId>
+        <picture>https://static.tildacdn.com/stor3137-3465-4566-a334-346330313837/cc19a403f8edce5d6e6146b63d73be56.webp</picture>
+        <picture>https://static.tildacdn.com/stor3338-6464-4531-a138-326633313161/02fdf0f2e4b56ab04896dd9fdf15968f.webp</picture>
+        <picture>https://static.tildacdn.com/tild6134-3639-4661-a237-363036643334/polupricep-furgon.webp</picture>
+        <name>Полуприцеп-фургон цельнометаллический AMUR (Амур) LYR9400XXYE</name>
+        <typePrefix>Цельнометаллический фургон</typePrefix>
+        <vendor>AMUR</vendor>
+        <model>LYR9400XXYE</model>
+        <description>Полуприцеп-фургон цельнометаллический AMUR LYR9400XXYE: объём 110 м³, внутренняя длина 16,9 м, 3 оси FUWA, пневмоподвеска, дисковые тормоза с ABS. Для ритейла, мебели, бытовой техники. Поставка по РФ, ОТТС.</description>
+        <param name="Тип">Цельнометаллический фургон</param>
+        <param name="Марка">AMUR LYR9400XXYE</param>
+        <param name="Модель">LYR9400XXYE</param>
+        <param name="Габариты (ДхШхВ)">17000x2550x4000мм</param>
+        <param name="Грузоподъемность">40 тонн</param>
+        <param name="Подвеска">Пневматическая</param>
+        <param name="Объем">110 м 3</param>
+        <param name="Тип прицепа">Цельнометаллический фургон</param>
+        <param name="Габариты (Д×Ш×В)">17000 x 2550 x 4000 мм</param>
+        <param name="Грузоподъёмность">40 000 кг</param>
+        <param name="Кол-во осей">3</param>
+      </offer>
+      <offer id="luxuda-lzc9501xxyc" available="true">
+        <url>https://tral-diler.ru/catalog/furgony/luxuda-lzc9501xxyc</url>
+        <price>4300000.00</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>438977898</categoryId>
+        <picture>https://static.tildacdn.com/stor3064-3465-4631-a334-316134333430/4ef418482f16df8fd1d7ee12be61dc16.webp</picture>
+        <picture>https://static.tildacdn.com/stor3266-6362-4264-a131-363461356433/575ef9f9e6f77abe9b39d2d15e15ae41.webp</picture>
+        <picture>https://static.tildacdn.com/tild3137-6463-4263-a232-316566636463/furgon-amur-polupric.webp</picture>
+        <name>Полуприцеп-фургон цельнометаллический LUXUDA (Люксуда) LZC9501XXYC (коричневый)</name>
+        <typePrefix>Цельнометаллический фургон</typePrefix>
+        <vendor>LUXUDA</vendor>
+        <model>LZC9501XXYC</model>
+        <description>Полуприцеп-фургон цельнометаллический LUXUDA LZC9501XXYC: объём 125 м³, длина 17 м, 3 оси FUWA, нагрузка на ось 15 т, рессорная подвеска, высота кузова 3100 мм. Коричневый кузов. ОТТС, поставка по РФ.</description>
+        <param name="Тип">Цельнометаллический фургон</param>
+        <param name="Марка">LUXUDA LZC9501XXYC</param>
+        <param name="Модель">LZC9501XXYC</param>
+        <param name="Габариты (ДхШхВ)">17000x2550x3990мм</param>
+        <param name="Грузоподъемность">40 тонн</param>
+        <param name="Подвеска">Рессорная</param>
+        <param name="Объем">125 м 3</param>
+        <param name="Тип прицепа">Цельнометаллический фургон</param>
+        <param name="Габариты (Д×Ш×В)">17000 x 2550 x 3990 мм</param>
+        <param name="Грузоподъёмность">40 000 кг</param>
+        <param name="Кол-во осей">3</param>
+      </offer>
+      <offer id="luxuda-lzc9501" available="true">
+        <url>https://tral-diler.ru/catalog/furgony/luxuda-lzc9501</url>
+        <price>4300000.00</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>438977898</categoryId>
+        <picture>https://static.tildacdn.com/stor3837-6535-4561-a265-326338303333/feac369b1aa43b2d7708aef0cf420b43.webp</picture>
+        <picture>https://static.tildacdn.com/stor6431-6662-4231-b436-383964333038/8c4819757825782b5d7c9935fe4405a6.webp</picture>
+        <picture>https://static.tildacdn.com/tild3762-3835-4464-a136-396466316231/amur-fugon.webp</picture>
+        <name>Полуприцеп-фургон цельнометаллический LUXUDA (Люксуда) LZC9501 (белый)</name>
+        <typePrefix>Цельнометаллический фургон</typePrefix>
+        <vendor>LUXUDA</vendor>
+        <model>LZC9501XXYC</model>
+        <description>Цельнометаллический фургон LUXUDA LZC9501 в белом кузове: объём 125 м³, 3 оси FUWA, нагрузка на ось 15 т, высота 3100 мм. Светлый кузов меньше нагревается, удобен для брендирования. ОТТС, поставка по РФ.</description>
+        <param name="Тип">Цельнометаллический фургон</param>
+        <param name="Марка">LUXUDA LZC9501XXYC</param>
+        <param name="Модель">LZC9501XXYC</param>
+        <param name="Габариты (ДхШхВ)">17000x2550x3990мм</param>
+        <param name="Грузоподъемность">40 тонн</param>
+        <param name="Подвеска">Рессорная</param>
+        <param name="Объем">125 м 3</param>
+        <param name="Тип прицепа">Цельнометаллический фургон</param>
+        <param name="Габариты">17000 x 2550 x 3990 мм</param>
+        <param name="Грузоподъёмность">40 000 кг</param>
+        <param name="Кол-во осей">3</param>
+      </offer>
+      <offer id="amur-lyr9403xxye" available="true">
+        <url>https://tral-diler.ru/catalog/furgony/amur-lyr9403xxye</url>
+        <price>4800000.00</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>438977898</categoryId>
+        <picture>https://static.tildacdn.com/stor3739-6462-4164-a562-326132643761/112907c4ca28269a8ab6e0f9563e64cc.webp</picture>
+        <picture>https://static.tildacdn.com/tild3664-6334-4233-a431-616662626432/furgon-polupricep-am.webp</picture>
+        <name>Полуприцеп-фургон цельнометаллический AMUR (Амур) LYR9403XXYE 123 м³</name>
+        <typePrefix>Цельнометаллический фургон</typePrefix>
+        <vendor>AMUR</vendor>
+        <model>LYR9403XXYE</model>
+        <description>Полуприцеп-фургон цельнометаллический AMUR LYR9403XXYE: объём 123 м³, длина 17 м, 4 оси FUWA, рессорная подвеска, низкая погрузочная высота 900 мм, дисковые тормоза WABCO ABS. ОТТС, поставка по РФ.</description>
+        <param name="Тип">Цельнометаллический фургон</param>
+        <param name="Марка">AMUR LYR9403XXYE</param>
+        <param name="Модель">LYR9403XXYE</param>
+        <param name="Габариты (ДхШхВ)">17000х2550х4000мм</param>
+        <param name="Грузоподъемность">40 тонн</param>
+        <param name="Подвеска">Рессорная</param>
+        <param name="Объем">123 м 3</param>
+        <param name="Тип прицепа">Цельнометаллический фургон (рессорный)</param>
+        <param name="Габариты (Д×Ш×В)">17000 x 2550 x 3990 мм</param>
+        <param name="Грузоподъёмность">40 000 кг</param>
+        <param name="Кол-во осей">4</param>
+      </offer>
+      <offer id="amur-lyr9403xxye-2" available="true">
+        <url>https://tral-diler.ru/catalog/furgony/amur-lyr9403xxye-2</url>
+        <price>5800000.00</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>438977898</categoryId>
+        <picture>https://static.tildacdn.com/stor6361-6531-4232-a230-353965623230/d969557b2ce6d5c21288b23a623b9bbd.webp</picture>
+        <picture>https://static.tildacdn.com/stor3432-3039-4761-a535-393032623563/8ad09c354e75768181d5e5465ac7b1c8.webp</picture>
+        <picture>https://static.tildacdn.com/tild6538-3562-4635-b464-393031653534/furgon.webp</picture>
+        <name>Полуприцеп-фургон цельнометаллический AMUR (Амур) LYR9403XXYE</name>
+        <typePrefix>Цельнометаллический фургон</typePrefix>
+        <vendor>AMUR</vendor>
+        <model>LYR9403XXYE</model>
+        <description>Удлинённый полуприцеп-фургон AMUR LYR9403XXYE: длина 20 м, объём 146 м³, 4 оси FUWA (1 подъёмная), пневмоподвеска, низкая погрузочная высота 900 мм. Для магистральных перевозок объёмных грузов. ОТТС, поставка по РФ.</description>
+        <param name="Тип">Цельнометаллический фургон</param>
+        <param name="Марка">AMUR LYR9403XXYE</param>
+        <param name="Модель">LYR9403XXYE</param>
+        <param name="Габариты (ДхШхВ)">20000х2550х4000мм</param>
+        <param name="Грузоподъемность">40 тонн</param>
+        <param name="Подвеска">Пневматическая</param>
+        <param name="Объем">146 м 3</param>
+        <param name="Тип прицепа">Цельнометаллический фургон (удлинённый)</param>
+        <param name="Габариты">20000 х 2550 х 4000 мм</param>
+        <param name="Грузоподъёмность">40 000 кг</param>
+        <param name="Кол-во осей">4 (1 подъёмная)</param>
+      </offer>
+      <offer id="luxuda-lzc9505xxyc" available="true">
+        <url>https://tral-diler.ru/catalog/furgony/luxuda-lzc9505xxyc</url>
+        <price>5650000.00</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>438977898</categoryId>
+        <picture>https://static.tildacdn.com/stor3833-6532-4361-a263-613435336634/9d8dd5093b76b55a2f9eda10ca3f320c.webp</picture>
+        <picture>https://static.tildacdn.com/stor6666-6633-4566-b333-383466383264/bde667706d92887dffe5b324842e601e.webp</picture>
+        <picture>https://static.tildacdn.com/tild6330-6365-4964-b532-383339663237/3123.webp</picture>
+        <name>Полуприцеп-фургон цельнометаллический LUXUDA (Люксуда) LZC9505XXYC</name>
+        <typePrefix>Цельнометаллический фургон</typePrefix>
+        <vendor>LUXUDA</vendor>
+        <model>LZC9505XXYC</model>
+        <description>Полуприцеп-фургон цельнометаллический LUXUDA LZC9505XXYC: объём 120,86 м³, длина 17 м, 4 оси FUWA (1 подъёмная), пневмоподвеска, низкая погрузочная высота 900 мм. Белый кузов. ОТТС, поставка по РФ.</description>
+        <param name="Тип">Цельнометаллический фургон</param>
+        <param name="Марка">LUXUDA LZC9505XXYC</param>
+        <param name="Модель">LZC9505XXYC</param>
+        <param name="Габариты (ДхШхВ)">17000 x 2550 x 3990 мм</param>
+        <param name="Грузоподъемность">40 тонн</param>
+        <param name="Подвеска">Пневматическая, 1-ая ось подъемная</param>
+        <param name="Объем">125 м 3</param>
+        <param name="Тип прицепа">Цельнометаллический фургон</param>
+        <param name="Габариты (Д×Ш×В)">17000 x 2550 x 3990 мм</param>
+        <param name="Грузоподъёмность">40 000 кг</param>
+        <param name="Кол-во осей">4 (1 подъёмная)</param>
+      </offer>
+      <offer id="amur-lyr9601xxye" available="true">
+        <url>https://tral-diler.ru/catalog/samosvalnyye/amur-lyr9601xxye</url>
+        <price>5500000.00</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>1869196400</categoryId>
+        <picture>https://static.tildacdn.com/stor6637-6263-4964-b837-343838363031/aa5f58e9d650040df77f125f234864d4.webp</picture>
+        <picture>https://static.tildacdn.com/stor3539-6261-4139-b862-353439376136/b96b7dc65b7d211f86dfb56a2ac34ce7.webp</picture>
+        <picture>https://static.tildacdn.com/tild3638-3738-4639-a338-643732363033/image_1.webp</picture>
+        <name>Самосвальный полуприцеп-зерновоз AMUR (Амур) LYR9601XXYE (выгрузка на две стороны)</name>
+        <typePrefix>Самосвальный полуприцеп</typePrefix>
+        <vendor>AMUR</vendor>
+        <model>LYR9601XXYE</model>
+        <description>Самосвальный полуприцеп-зерновоз AMUR LYR9601XXYE с выгрузкой на две стороны: объём 70 м³, грузоподъёмность 60 т, 3 оси FUWA, тормоза WABCO ABS. Для зерна и сыпучих грузов. Поставка по РФ, ОТТС.</description>
+        <param name="Тип">Самосвальный полуприцеп</param>
+        <param name="Марка">AMUR LYR9601XXYE</param>
+        <param name="Модель">LYR9601XXYE</param>
+        <param name="Габариты (ДхШхВ)">14000х2550х3960мм</param>
+        <param name="Грузоподъемность">60 тонн</param>
+        <param name="Подвеска">Рессорная</param>
+        <param name="Объем">70 м 3</param>
+        <param name="Выгрузка">Боковая (в обе стороны)</param>
+        <param name="Тип прицепа">Самосвальный (зерновоз, выгрузка на 2 стороны)</param>
+        <param name="Габариты">14000 х 2550 х 3960 мм</param>
+        <param name="Грузоподъёмность">60 000 кг</param>
+        <param name="Кол-во осей">3</param>
+      </offer>
+      <offer id="amur-lyr9602zx30m3" available="true">
+        <url>https://tral-diler.ru/catalog/samosvalnyye/amur-lyr9602zx30m3</url>
+        <price>3800000.00</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>1869196400</categoryId>
+        <picture>https://static.tildacdn.com/stor3931-3035-4066-a539-383436306534/968b4742d2b050836fb33e40943e1774.png</picture>
+        <picture>https://static.tildacdn.com/stor3662-3133-4938-b137-626363386331/d2eae731a63e389371f95d08d491a2cb.png</picture>
+        <picture>https://static.tildacdn.com/tild6665-3339-4232-b631-373632646533/image.png</picture>
+        <name>Полуприцеп самосвальный AMUR (Амур) LYR9602ZX облегчённый (задняя выгрузка, пневмоподвеска)</name>
+        <typePrefix>Самосвальный полуприцеп</typePrefix>
+        <vendor>AMUR</vendor>
+        <model>LYR9602ZX</model>
+        <description>Облегчённый самосвальный полуприцеп AMUR LYR9602ZX с задней выгрузкой: пневмоподвеска с подъёмной осью, односкатная резина, объём 30 м³, грузоподъёмность 40 т, снаряжённая всего 8,5 т. Для песка, щебня, грунта. Поставка по РФ, ОТТС.</description>
+        <param name="Тип">Самосвальный полуприцеп</param>
+        <param name="Марка">AMUR LYR9602ZX (облегчённый)</param>
+        <param name="Модель">LYR9602ZX</param>
+        <param name="Габариты (ДхШхВ)">9500х2550х2950мм</param>
+        <param name="Грузоподъемность">40 тонн</param>
+        <param name="Подвеска">Пневматическая. 1-ая подъемная ось</param>
+        <param name="Объем">30 м 3</param>
+        <param name="Выгрузка">Задняя выгрузка</param>
+        <param name="Тип прицепа">Самосвальный (задняя выгрузка, пневмо)</param>
+        <param name="Габариты">9500 х 2550 х 2950 мм</param>
+        <param name="Грузоподъёмность">40 000 кг</param>
+        <param name="Кол-во осей">3 (1 подъёмная)</param>
+      </offer>
+      <offer id="amur-lyr9606tdp" available="true">
+        <url>https://tral-diler.ru/catalog/traly3osi/amur-lyr9606tdp</url>
+        <price>5200000.00</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>309277391</categoryId>
+        <picture>https://static.tildacdn.com/stor6334-3661-4330-a335-356362636436/52479a05e1997b91aa8d8dd315589500.webp</picture>
+        <picture>https://static.tildacdn.com/stor3231-3964-4861-b832-346239313565/8a1ac8b431c7b991e93d08e15757c17b.webp</picture>
+        <picture>https://static.tildacdn.com/tild6262-3064-4238-b235-636438323162/amur-9606.webp</picture>
+        <name>Низкорамный трал AMUR (Амур) LYR9606TDP — 3 оси, 60 тонн</name>
+        <typePrefix>Низкорамный трал</typePrefix>
+        <vendor>AMUR</vendor>
+        <model>LYR9606TDP</model>
+        <description>Низкорамный трал AMUR LYR9606TDP: 3 оси Fuwa, 60 т, площадка 11,8 м высотой 950 мм, съёмные уширители 250 мм, механические трапы, тормоза ABS. ОТТС, доставка по РФ.</description>
+        <param name="Тип">Низкорамный трал</param>
+        <param name="Марка">AMUR LYR9606TDP</param>
+        <param name="Модель">LYR9606TDP</param>
+        <param name="Габариты (ДхШхВ)">15800х2550х2837мм</param>
+        <param name="Грузоподъемность">60 тонн</param>
+        <param name="Подвеска">Рессорная</param>
+        <param name="Длина рабочей площадки">11800 мм</param>
+        <param name="Тип прицепа">Низкорамный трал</param>
+        <param name="Габариты (Д×Ш×В)">15800 х 2550 х 2837 мм</param>
+        <param name="Грузоподъёмность">60 000 кг</param>
+        <param name="Кол-во осей">3</param>
+      </offer>
+      <offer id="luxuda-lzc9301tdp" available="true">
+        <url>https://tral-diler.ru/catalog/traly3osi/luxuda-lzc9301tdp</url>
+        <price>4900000.00</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>309277391</categoryId>
+        <picture>https://static.tildacdn.com/stor3566-3734-4065-a438-333865626133/eba6d5349c15b6f82f95bafe734b5e20.webp</picture>
+        <picture>https://static.tildacdn.com/stor3033-3330-4331-b839-313538313065/ac5d5ceedb087e8addab49486f100f8a.webp</picture>
+        <picture>https://static.tildacdn.com/tild3533-3765-4333-a331-633633623065/tral-luxuda9301.webp</picture>
+        <name>Низкорамный трал LUXUDA (Люксуда) LZC9301TDP — 3 оси, 60 тонн</name>
+        <typePrefix>Низкорамный трал</typePrefix>
+        <vendor>LUXUDA</vendor>
+        <model>LZC9301TDP</model>
+        <description>Низкорамный трал LUXUDA LZC9301TDP: 3 оси Fuwa, 60 т (46,5 т по ОТТС), площадка 11,8 м высотой 950 мм, откидные уширители, раздвижные трапы. ОТТС, доставка по РФ.</description>
+        <param name="Тип">Низкорамный трал</param>
+        <param name="Марка">LUXUDA LZC9301TDP</param>
+        <param name="Модель">LZC9301TDP</param>
+        <param name="Габариты (ДхШхВ)">15800x2550x3290мм</param>
+        <param name="Грузоподъемность">46.5 тонн (фактическая 60 тонн)</param>
+        <param name="Подвеска">Рессорная</param>
+        <param name="Длина рабочей площадки">11800 мм</param>
+        <param name="Тип прицепа">Низкорамный трал</param>
+        <param name="Габариты (Д×Ш×В)">15800 x 2550 x 3290 мм</param>
+        <param name="Грузоподъёмность">46 500 кг по ОТТС (фактическая 60 000 кг)</param>
+        <param name="Кол-во осей">3</param>
+      </offer>
+      <offer id="luxuda-lzc9301tdp-2" available="true">
+        <url>https://tral-diler.ru/catalog/traly3osi/luxuda-lzc9301tdp-2</url>
+        <price>5060000.00</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>309277391</categoryId>
+        <picture>https://static.tildacdn.com/stor6330-6137-4433-b239-306432646136/f3216ab895e45117d234be902be5bd20.webp</picture>
+        <picture>https://static.tildacdn.com/tild3939-3261-4636-a662-666563633134/321.webp</picture>
+        <name>Низкорамный трал LUXUDA (Люксуда) LZC9301TDP, 3 оси</name>
+        <typePrefix>Низкорамный трал</typePrefix>
+        <vendor>LUXUDA</vendor>
+        <model>LZC9301TDP</model>
+        <description>Низкорамный трал LUXUDA LZC9301TDP: грузоподъёмность 60 т, 3 оси FUWA, уголковые трапы, уширители, фитинги под контейнер 20/40, знаки негабарит с маяками. В наличии. Поставка по РФ, ОТТС, лизинг.</description>
+        <param name="Тип">Низкорамный трал</param>
+        <param name="Марка">LUXUDA LZC9301TDP</param>
+        <param name="Модель">LZC9301TDP</param>
+        <param name="Габариты (ДхШ)">15 800 × 2 550 мм</param>
+        <param name="Грузоподъемность">60 000 кг</param>
+        <param name="Подвеска">рессорная (положение рессор снизу)</param>
+        <param name="Длина рабочей площадки">11 283 мм</param>
+        <param name="Тип прицепа">Низкорамный трал</param>
+        <param name="Габариты">15 800 × 2 550 мм</param>
+        <param name="Грузоподъёмность">60 000 кг</param>
+        <param name="Кол-во осей">3</param>
+      </offer>
+      <offer id="tongyada-cty9380tdp" available="true">
+        <url>https://tral-diler.ru/catalog/traly3osi/tongyada-cty9380tdp</url>
+        <price>5350000.00</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>309277391</categoryId>
+        <picture>https://static.tildacdn.com/stor6465-3563-4735-a561-343466653430/73bc7ccf5a1cdf46b176bac2746babaa.webp</picture>
+        <picture>https://static.tildacdn.com/tild3735-3938-4738-b136-323261353339/tongyada-tral.webp</picture>
+        <name>Низкорамный трал TONGYADA (Тонгъяда) CTY9380TDP — фиолетового цвета</name>
+        <typePrefix>Низкорамный трал</typePrefix>
+        <vendor>TONGYADA</vendor>
+        <model>CTY9380TDP</model>
+        <description>Низкорамный трал TONGYADA CTY9380TDP, фиолетовое исполнение: 3 оси Fuwa, 60 т, площадка 11,9 м, высота 900–950 мм, трапы 1000 мм, фитинги. ОТТС, поставка по РФ.</description>
+        <param name="Тип">Низкорамный трал</param>
+        <param name="Марка">TONGYADA CTY9380TDP</param>
+        <param name="Модель">CTY9380TDP</param>
+        <param name="Габариты (ДхШхВ)">15800х2550х2850мм</param>
+        <param name="Грузоподъемность">60 тонн</param>
+        <param name="Подвеска">Рессорная</param>
+        <param name="Длина рабочей площадки">11900 мм</param>
+        <param name="Высота рабочей площадки">900-950 мм</param>
+        <param name="Трапы">Механические трех пружинные шириной 1000 мм</param>
+        <param name="Тип прицепа">Низкорамный трал</param>
+        <param name="Габариты (Д×Ш×В)">15800 х 2550 х 2850 мм</param>
+        <param name="Грузоподъёмность">60 000 кг</param>
+        <param name="Кол-во осей">3</param>
+      </offer>
+      <offer id="luxuda-lzc9305tdp" available="true">
+        <url>https://tral-diler.ru/catalog/traly3osi/luxuda-lzc9305tdp</url>
+        <price>5350000.00</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>309277391</categoryId>
+        <picture>https://static.tildacdn.com/stor3435-6234-4639-b439-373433393561/fda08f5c00162fa772cdee23b7cd7c4a.webp</picture>
+        <picture>https://static.tildacdn.com/stor3534-6261-4131-b037-303137353830/d7c18f6096b0a2e9becaf9a7a7f6696e.webp</picture>
+        <picture>https://static.tildacdn.com/tild3366-3039-4435-a265-656665636633/luxuda-9305.webp</picture>
+        <name>Низкорамный трал-корыто LUXUDA (Люксуда) LZC9305TDP — 3 оси, 60 тонн</name>
+        <typePrefix>Низкорамный трал-корыто</typePrefix>
+        <vendor>LUXUDA</vendor>
+        <model>LZC9305TDP</model>
+        <description>Трал-корыто LUXUDA LZC9305TDP: 3 оси Fuwa, 60 т, высота площадки 930–950 мм, погрузочная 1243 мм, ширина 3000 мм, раздвижные трапы до 3500 мм. ОТТС, поставка по РФ.</description>
+        <param name="Тип">Низкорамный трал-корыто</param>
+        <param name="Марка">LUXUDA LZC9305TDP</param>
+        <param name="Модель">LZC9305TDP</param>
+        <param name="Габариты (ДхШхВ)">15 400×3000×3500/3699мм</param>
+        <param name="Грузоподъемность">60 тонн</param>
+        <param name="Подвеска">Рессорная</param>
+        <param name="Длина рабочей площадки">7000 мм</param>
+        <param name="Высота рабочей площадки">930−950 мм</param>
+        <param name="Трапы">Механические трех пружинные шириной 1000 мм.</param>
+        <param name="Тип прицепа">Низкорамный трал-корыто</param>
+        <param name="Габариты (Д×Ш×В)">15400 x 3000 x 3500/3699 мм</param>
+        <param name="Грузоподъёмность">60 000 кг</param>
+        <param name="Кол-во осей">3</param>
+      </offer>
+      <offer id="tongyada-cty9603-tdps" available="true">
+        <url>https://tral-diler.ru/catalog/traly3osi/tongyada-cty9603-tdps</url>
+        <price>6400000.00</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>309277391</categoryId>
+        <picture>https://static.tildacdn.com/stor3838-6531-4130-a462-666433393163/c87f5854c4bb63e97a97ab773027c679.webp</picture>
+        <picture>https://static.tildacdn.com/stor3733-6635-4732-b563-323231666366/fcea6cce6fe86b5651d3c9ba94770076.webp</picture>
+        <picture>https://static.tildacdn.com/tild3936-6233-4136-b662-386664346165/tral-tongya-auto.webp</picture>
+        <name>Среднерамный трал-корыто TONGYADA (Тонгъяда) CTY9603TDPS</name>
+        <typePrefix>Среднерамный трал-корыто</typePrefix>
+        <vendor>TONGYADA</vendor>
+        <model>CTY9603TDPS</model>
+        <description>Трал-корыто TONGYADA CTY9603TDPS — среднерамный 3-осный трал, грузоподъёмность 60 т, ширина до 3500 мм, оси FUWA, тормоза WABCO ABS. Поставка по РФ, лизинг.</description>
+        <param name="Тип">Среднерамный трал-корыто</param>
+        <param name="Марка">TONGYADA CTY9603TDPS</param>
+        <param name="Габариты (ДхШхВ)">15400х3000х3699мм</param>
+        <param name="Грузоподъемность">60 тонн</param>
+        <param name="Подвеска">Рессорная</param>
+        <param name="Длина рабочей площадки">7000 мм</param>
+        <param name="Высота рабочей площадки">900-930 мм</param>
+        <param name="Тип прицепа">Среднерамный трал (корыто)</param>
+        <param name="Габариты">15400 х 3000 х 3699 мм</param>
+        <param name="Грузоподъёмность">60 000 кг</param>
+        <param name="Кол-во осей">3</param>
+      </offer>
+      <offer id="tongyada-cty9603-tdps-goluboy" available="true">
+        <url>https://tral-diler.ru/catalog/traly3osi/tongyada-cty9603-tdps-goluboy</url>
+        <price>6400000.00</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>309277391</categoryId>
+        <picture>https://static.tildacdn.com/stor6630-6263-4361-b763-643033623962/2b9afc7a4dd3d06f0cca7c3a8c68a6ec.webp</picture>
+        <picture>https://static.tildacdn.com/stor3464-6439-4566-b530-373062623536/baf44940fe4caebebd0f99c91f487eee.webp</picture>
+        <picture>https://static.tildacdn.com/tild6465-6565-4435-a263-643638383564/tral-korito-blue2.webp</picture>
+        <name>Трал-корыто TONGYADA CTY9603TDPS (голубой, жёлтые коники)</name>
+        <typePrefix>Среднерамный трал-корыто</typePrefix>
+        <vendor>TONGYADA</vendor>
+        <model>CTY9603TDPS</model>
+        <description>Среднерамный трал-корыто TONGYADA CTY9603TDPS: голубой кузов с жёлтыми кониками, 3 оси FUWA, 60 т, ширина до 3500 мм. Поставка по РФ, лизинг.</description>
+        <param name="Тип">Среднерамный трал-корыто</param>
+        <param name="Марка">TONGYADA CTY9603TDPS</param>
+        <param name="Габариты (ДхШхВ)">15400х3000х3699мм</param>
+        <param name="Грузоподъемность">60 тонн</param>
+        <param name="Подвеска">Рессорная</param>
+        <param name="Длина рабочей площадки">7000 мм</param>
+        <param name="Высота рабочей площадки">900-930 мм</param>
+        <param name="Тип прицепа">Среднерамный трал (корыто)</param>
+        <param name="Габариты">15400 х 3000 х 3699 мм</param>
+        <param name="Грузоподъёмность">60 000 кг</param>
+        <param name="Кол-во осей">3</param>
+      </offer>
+      <offer id="tongyada-cty9603-tdps-zelenyy" available="true">
+        <url>https://tral-diler.ru/catalog/traly3osi/tongyada-cty9603-tdps-zelenyy</url>
+        <price>6400000.00</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>309277391</categoryId>
+        <picture>https://static.tildacdn.com/stor6563-6464-4165-b437-313630666233/25a22aa13e019d4535abb04299dbc447.webp</picture>
+        <picture>https://static.tildacdn.com/stor3664-6164-4431-a664-386230326631/f77d1e9a5a51d0ec3c3a123f705933fe.webp</picture>
+        <picture>https://static.tildacdn.com/tild3438-6235-4430-b430-363532363333/tral-korito-tongya-a.webp</picture>
+        <name>Трал-корыто TONGYADA (Тонгъяда) CTY9603TDPS (зелёный)</name>
+        <typePrefix>Среднерамный трал-корыто</typePrefix>
+        <vendor>TONGYADA</vendor>
+        <model>CTY9603TDPS</model>
+        <description>Среднерамный трал-корыто TONGYADA CTY9603TDPS в зелёном цвете: 3 оси FUWA, грузоподъёмность 60 т, ширина до 3500 мм, раздвижные трапы. Поставка по РФ, лизинг.</description>
+        <param name="Тип">Среднерамный трал-корыто</param>
+        <param name="Марка">TONGYADA CTY9603TDPS</param>
+        <param name="Габариты (ДхШхВ)">15400х3000х3699мм</param>
+        <param name="Грузоподъемность">60 тонн</param>
+        <param name="Подвеска">Рессорная</param>
+        <param name="Длина рабочей площадки">7000 мм</param>
+        <param name="Высота рабочей площадки">900-930 мм</param>
+        <param name="Тип прицепа">Среднерамный трал (корыто)</param>
+        <param name="Габариты">15400 х 3000 х 3699 мм</param>
+        <param name="Грузоподъёмность">60 000 кг</param>
+        <param name="Кол-во осей">3</param>
+      </offer>
+      <offer id="tongyada-cty9603-tdps-2" available="true">
+        <url>https://tral-diler.ru/catalog/traly3osi/tongyada-cty9603-tdps-2</url>
+        <price>6400000.00</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>309277391</categoryId>
+        <picture>https://static.tildacdn.com/stor3432-6430-4262-b666-616539396461/3fd9fda689a55924ac5c6cc075553003.webp</picture>
+        <picture>https://static.tildacdn.com/stor6333-3166-4066-b235-333239363536/8b1d6e8d4fd23f4029fd571d316b1ea9.webp</picture>
+        <picture>https://static.tildacdn.com/tild3030-6531-4634-b838-343936316631/tral-tongyada9603.webp</picture>
+        <name>Среднерамный трал-корыто TONGYADA (Тонгъяда) CTY9603TDPS — 3 оси, 60 тонн</name>
+        <typePrefix>Среднерамный трал-корыто</typePrefix>
+        <vendor>TONGYADA</vendor>
+        <model>CTY9603TDPS</model>
+        <description>Трал-корыто TONGYADA CTY9603TDPS: 3 оси Fuwa, 60 т, 47,3 т по ОТТС, высота площадки 940 мм, ширина 3000 мм, раздвижные трапы до 3500 мм, ССУ 1350–1550. Доставка по РФ.</description>
+        <param name="Тип">Среднерамный трал-корыто</param>
+        <param name="Марка">TONGYADA CTY9603TDPS</param>
+        <param name="Габариты (ДхШхВ)">15 130 × 3 000 × 3 350 мм</param>
+        <param name="Грузоподъемность">60 тонн ( 47 300 кг по ОТТС )</param>
+        <param name="Подвеска">Рессорная</param>
+        <param name="Длина рабочей площадки">6660 мм</param>
+        <param name="Высота рабочей площадки">940 мм</param>
+        <param name="Высота погрузочная">1 090 мм</param>
+        <param name="Тип прицепа">Среднерамный трал</param>
+        <param name="Габариты (Д×Ш×В)">15 130 × 3 000 × 3 350 мм</param>
+        <param name="Грузоподъёмность">60 000 кг (47 300 кг по ОТТС)</param>
+        <param name="Кол-во осей">3</param>
+      </offer>
+      <offer id="tongyada-cty9603tdps-krasnyy" available="true">
+        <url>https://tral-diler.ru/catalog/traly3osi/tongyada-cty9603tdps-krasnyy</url>
+        <price>6400000.00</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>309277391</categoryId>
+        <picture>https://static.tildacdn.com/stor3035-6666-4265-b861-356564646131/21702efda9fa3cd73638db6153faadb2.webp</picture>
+        <picture>https://static.tildacdn.com/stor3065-3635-4566-b738-396466346637/eb8de90b88e6bece64e8a83c8cb14381.webp</picture>
+        <picture>https://static.tildacdn.com/tild3861-3538-4464-a636-663036333761/tongyada9603-red.webp</picture>
+        <name>Среднерамный трал-корыто TONGYADA (Тонгъяда) CTY9603TDPS — красное исполнение</name>
+        <typePrefix>Среднерамный трал-корыто</typePrefix>
+        <vendor>TONGYADA</vendor>
+        <model>CTY9603TDPS</model>
+        <description>Среднерамный трал-корыто TONGYADA CTY9603TDPS, красное исполнение: 3 оси Fuwa, 60 т, площадка 940 мм, ширина 3000 мм, раздвижные трапы 3500 мм. ОТТС, поставка по РФ.</description>
+        <param name="Тип">Среднерамный трал-корыто</param>
+        <param name="Марка">TONGYADA CTY9603TDPS</param>
+        <param name="Габариты (ДхШхВ)">15 130 × 3 000 × 3 350 мм</param>
+        <param name="Грузоподъемность">60 тонн ( 47 300 кг по ОТТС )</param>
+        <param name="Подвеска">Рессорная</param>
+        <param name="Длина рабочей площадки">6660 мм</param>
+        <param name="Высота рабочей площадки">940 мм</param>
+        <param name="Высота погрузочная">1 090 мм</param>
+        <param name="Тип прицепа">Среднерамный трал</param>
+        <param name="Габариты (Д×Ш×В)">15 130 × 3 000 × 3 350 мм</param>
+        <param name="Грузоподъёмность">60 000 кг (47 300 кг по ОТТС)</param>
+        <param name="Кол-во осей">3</param>
+      </offer>
+      <offer id="luxuda-lzc9305tdp14m" available="true">
+        <url>https://tral-diler.ru/catalog/traly3osi/luxuda-lzc9305tdp14m</url>
+        <price>5700000.00</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>309277391</categoryId>
+        <picture>https://static.tildacdn.com/stor3438-3830-4434-a230-306433396264/1120be9784afb239775a2f582f461e80.webp</picture>
+        <picture>https://static.tildacdn.com/stor6535-6463-4133-a261-623336313137/e8d5ddb2d1e53c79af006ec8719fab9d.webp</picture>
+        <picture>https://static.tildacdn.com/tild3732-3462-4165-a539-313131636262/luxuda-tral9305.webp</picture>
+        <name>Трал-корыто LUXUDA (Люксуда) LZC9305TDP — 3 оси, 60 тонн, база 14,5 м</name>
+        <typePrefix>Среднерамный трал-корыто</typePrefix>
+        <vendor>LUXUDA</vendor>
+        <model>LZC9305TDP</model>
+        <description>Трал-корыто LUXUDA LZC9305TDP: 3 оси Fuwa, 60 т, компактная база 14,5 м, площадка 930–950 мм, погрузочная 1090 мм, уширители до 3500 мм. ОТТС, поставка по РФ.</description>
+        <param name="Тип">Среднерамный трал-корыто</param>
+        <param name="Марка">LUXUDA LZC9305TDP</param>
+        <param name="Модель">LZC9305TDP</param>
+        <param name="Габариты (ДхШхВ)">14 500×3000×3500/3625мм</param>
+        <param name="Грузоподъемность">60 тонн</param>
+        <param name="Подвеска">Рессорная</param>
+        <param name="Длина рабочей площадки">7000 мм</param>
+        <param name="Высота рабочей площадки">930−950 мм</param>
+        <param name="Трапы">Механические трех пружинные шириной 1000 мм.</param>
+        <param name="Тип прицепа">Среднерамный трал-корыто</param>
+        <param name="Габариты (Д×Ш×В)">14500 x 3000 x 3500/3625 мм</param>
+        <param name="Грузоподъёмность">60 000 кг</param>
+        <param name="Кол-во осей">3</param>
+      </offer>
+      <offer id="luxuda-lzc9301tdp2" available="true">
+        <url>https://tral-diler.ru/catalog/traly3osi/luxuda-lzc9301tdp2</url>
+        <price>5300000.00</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>309277391</categoryId>
+        <picture>https://static.tildacdn.com/stor3562-3733-4337-a534-353131323031/8f6770a60c6b8fca2ca888b0f8a6e76a.webp</picture>
+        <picture>https://static.tildacdn.com/stor3039-6366-4863-b434-616438626631/352739b91e8f9bfd98292dfb15e3102e.webp</picture>
+        <picture>https://static.tildacdn.com/tild6662-6637-4234-a365-356663323962/luxuda-tral.webp</picture>
+        <name>Среднерамный трал LUXUDA (Люксуда) LZC9301TDP — 3 оси, 60 тонн</name>
+        <typePrefix>Среднерамный трал</typePrefix>
+        <vendor>LUXUDA</vendor>
+        <model>LZC9301TDP</model>
+        <description>Среднерамный трал LUXUDA LZC9301TDP: 3 оси Fuwa, 60 т, площадка 11,8 м высотой 1253 мм, съёмные уширители 350 мм, раздвижные трапы, фитинги 20/40. ОТТС, доставка по РФ.</description>
+        <param name="Тип">Среднерамный трал</param>
+        <param name="Марка">LUXUDA LZC9301TDP</param>
+        <param name="Модель">LZC9301TDP</param>
+        <param name="Габариты (ДхШхВ)">15800х2550х3720 мм</param>
+        <param name="Грузоподъемность">60 тонн</param>
+        <param name="Подвеска">Рессорная</param>
+        <param name="Длина рабочей площадки">11800 мм</param>
+        <param name="Высота рабочей площадки">1253 мм</param>
+        <param name="Тип прицепа">Среднерамный трал</param>
+        <param name="Габариты (Д×Ш×В)">15800 x 2550 x 3720 мм</param>
+        <param name="Грузоподъёмность">60 000 кг</param>
+        <param name="Кол-во осей">3</param>
+      </offer>
+      <offer id="luxuda-lzc9301tdp16m" available="true">
+        <url>https://tral-diler.ru/catalog/traly3osi/luxuda-lzc9301tdp16m</url>
+        <price>5550000.00</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>309277391</categoryId>
+        <picture>https://static.tildacdn.com/stor3338-3134-4736-b161-333934666433/d2991adeffc64747b850572ecbdf8422.webp</picture>
+        <picture>https://static.tildacdn.com/stor3263-3538-4232-a435-393466666339/318c700ba3bb9d14a570fde8d8729d5b.webp</picture>
+        <picture>https://static.tildacdn.com/tild6465-3463-4839-a236-366362623137/sredneramniy-tral-lu.webp</picture>
+        <name>Среднерамный трал LUXUDA (Люксуда) LZC9301TDP — 3 оси, 60 тонн, площадка 12,4 м</name>
+        <typePrefix>Среднерамный трал</typePrefix>
+        <vendor>LUXUDA</vendor>
+        <model>LZC9301TDP</model>
+        <description>Среднерамный трал LUXUDA LZC9301TDP: 3 оси Fuwa, 60 т, площадка 12,4 м, высота 1254 мм, откидные уширители 350 мм, замки twist lock, WABCO ABS. ОТТС, поставка по РФ.</description>
+        <param name="Тип">Среднерамный трал</param>
+        <param name="Марка">LUXUDA LZC9301TDP</param>
+        <param name="Модель">LZC9301TDP</param>
+        <param name="Габариты (ДхШхВ)">16500x2550/3200x3720 мм</param>
+        <param name="Грузоподъемность">60 тонн</param>
+        <param name="Подвеска">Рессорная</param>
+        <param name="Длина рабочей площадки">12386 мм</param>
+        <param name="Высота рабочей площадки">1254 мм</param>
+        <param name="Тип прицепа">Среднерамный трал</param>
+        <param name="Габариты (Д×Ш×В)">16500 x 2550/3200 x 3720 мм</param>
+        <param name="Грузоподъёмность">60 000 кг</param>
+        <param name="Кол-во осей">3</param>
+      </offer>
+      <offer id="amur-lyr9601tdp-2" available="true">
+        <url>https://tral-diler.ru/catalog/traly3osi/amur-lyr9601tdp-2</url>
+        <price>5600000.00</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>309277391</categoryId>
+        <picture>https://static.tildacdn.com/stor6662-3662-4437-b738-636362393531/9e033fa037f1964e5e94020df33e4f0b.webp</picture>
+        <picture>https://static.tildacdn.com/stor3634-3634-4330-b661-656337333234/ec635e2babe971483423f9cf9587b5d8.webp</picture>
+        <picture>https://static.tildacdn.com/tild6537-3236-4237-b432-373637636638/tral-korito-AMUR-LYR.webp</picture>
+        <name>Среднерамный трал-корыто AMUR (Амур) LYR9601TDP — 3 оси, 60 тонн</name>
+        <typePrefix>Среднерамный трал-корыто</typePrefix>
+        <vendor>AMUR</vendor>
+        <model>LYR9601TDP</model>
+        <description>Среднерамный трал-корыто AMUR LYR9601TDP: 3 оси Fuwa по 16 т, 60 тонн, рессорная подвеска, платформа 6300×3000 мм, пониженная зона, механические трапы. Поставка по РФ.</description>
+        <param name="Тип">Среднерамный трал-корыто</param>
+        <param name="Марка">AMUR LYR9601TDP</param>
+        <param name="Модель">LYR9601TDP</param>
+        <param name="Габариты (ДхШхВ)">14500х3000х3440мм</param>
+        <param name="Грузоподъемность">60 тонн</param>
+        <param name="Подвеска">Рессорная</param>
+        <param name="Длина рабочей площадки">6300 мм</param>
+        <param name="Высота рабочей площадки">930 (+/-20) мм</param>
+        <param name="Тип прицепа">Среднерамный трал-корыто</param>
+        <param name="Габариты">14500 х 3000 х 3440 мм</param>
+        <param name="Грузоподъёмность">60 000 кг</param>
+        <param name="Кол-во осей">3</param>
+      </offer>
+      <offer id="amur-lyr9708tdp-2" available="true">
+        <url>https://tral-diler.ru/catalog/traly4osi/amur-lyr9708tdp-2</url>
+        <price>5550000.00</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>263719542</categoryId>
+        <picture>https://static.tildacdn.com/stor3664-6136-4635-a533-333564646237/48f015501083c18f45687400cf79c472.webp</picture>
+        <picture>https://static.tildacdn.com/stor3237-3663-4135-b238-656633646238/5a35d6b38d19d0515d5994d4f8819665.webp</picture>
+        <picture>https://static.tildacdn.com/tild3561-6430-4537-a333-363963636339/tral-4-osi-amur.webp</picture>
+        <name>Низкорамный трал AMUR (Амур) LYR9708TDP — 4 оси, 60 тонн</name>
+        <typePrefix>Низкорамный трал</typePrefix>
+        <vendor>AMUR</vendor>
+        <model>LYR9708TDP</model>
+        <description>Низкорамный трал AMUR LYR9708TDP: 4 оси Fuwa, 60 тонн, комбинированная подвеска с подъёмной 1-й осью, площадка 12300 мм высотой 980 мм, фитинги 20/40. Поставка по РФ.</description>
+        <param name="Тип">Низкорамный трал</param>
+        <param name="Марка">AMUR LYR9708TDP</param>
+        <param name="Модель">LYR9708TDP</param>
+        <param name="Габариты (ДхШхВ)">16400х2500х2858мм</param>
+        <param name="Грузоподъемность">60 тонн</param>
+        <param name="Подвеска">1-ось Пневмо-подъемная. 2,3,4 — Рессорные</param>
+        <param name="Длина рабочей площадки">12300 мм</param>
+        <param name="Высота рабочей площадки">980 мм</param>
+        <param name="Тип прицепа">Низкорамный трал</param>
+        <param name="Габариты (Д×Ш×В)">16400 х 2500 х 2858 мм</param>
+        <param name="Грузоподъёмность">60 000 кг</param>
+        <param name="Кол-во осей">4</param>
+      </offer>
+      <offer id="cimc-lyr9708tdp-4" available="true">
+        <url>https://tral-diler.ru/catalog/traly4osi/cimc-lyr9708tdp-4</url>
+        <price>5200000.00</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>263719542</categoryId>
+        <picture>https://static.tildacdn.com/stor3138-6565-4263-b530-663761306638/f81c8e1063a101dd57b9ed57a9904c5e.webp</picture>
+        <picture>https://static.tildacdn.com/stor3731-6461-4534-b463-333638666161/df3ee898acac62fc27533a30b3860a80.webp</picture>
+        <picture>https://static.tildacdn.com/tild3661-3934-4563-b834-303931336163/CIMC-AMUR-LYR9708TDP.webp</picture>
+        <name>Низкорамный трал CIMC (AMUR) LYR9708TDP — 60 тонн</name>
+        <typePrefix>Низкорамный трал</typePrefix>
+        <vendor>CIMC</vendor>
+        <model>LYR9708TDP</model>
+        <description>Низкорамный трал CIMC (AMUR) LYR9708TDP: 60 тонн, 4 оси BPW 400К (1-я подъёмная), рессорная подвеска, автономная гидростанция, гидравлические трапы с ДУ. По РФ.</description>
+        <param name="Тип">Низкорамный трал</param>
+        <param name="Марка">CIMC (AMUR) LYR9708TDP</param>
+        <param name="Модель">LYR9708TDP</param>
+        <param name="Габариты (ДхШхВ)">16400x2550/3000x3130мм</param>
+        <param name="Грузоподъемность">60 тонн</param>
+        <param name="Подвеска">1-ось Подъемная. 2,3,4 — Рессорные</param>
+        <param name="Длина рабочей площадки">12300 мм</param>
+        <param name="Высота рабочей площадки">950 (+/-20) мм</param>
+        <param name="Тип прицепа">Низкорамный трал</param>
+        <param name="Габариты (Д×Ш×В)">16400 x 2550/3000 x 3130 мм</param>
+        <param name="Грузоподъёмность">60 000 кг</param>
+        <param name="Кол-во осей">4</param>
+      </offer>
+      <offer id="amur-lyr9708tdp-60t-gidro" available="true">
+        <url>https://tral-diler.ru/catalog/traly4osi/amur-lyr9708tdp-60t-gidro</url>
+        <price>6480000.00</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>263719542</categoryId>
+        <picture>https://static.tildacdn.com/stor6232-3838-4530-a164-663863316361/614d3e4bad0bb0f782d69e0b0074a25c.webp</picture>
+        <picture>https://static.tildacdn.com/tild6134-6462-4365-b734-626336313137/amur-9708.webp</picture>
+        <name>Низкорамный трал AMUR LYR9708TDP (CIMC) — 60 тонн, гидравлические трапы</name>
+        <typePrefix>Низкорамный трал</typePrefix>
+        <vendor>CIMC</vendor>
+        <model>LYR9708TDP</model>
+        <description>Низкорамный трал AMUR LYR9708TDP (CIMC): 60 тонн, 4 оси BPW по 12 т, рессорная подвеска, площадка 12300 мм высотой 930 мм, гидростанция и гидротрапы. Поставка по РФ.</description>
+        <param name="Тип">Низкорамный трал</param>
+        <param name="Марка">AMUR LYR9708TDP (произв. CIMC)</param>
+        <param name="Модель">LYR9708TDP</param>
+        <param name="Габариты (ДхШхВ)">16 400 × 2 550 × 3 100 мм</param>
+        <param name="Грузоподъемность">6 0 тонн</param>
+        <param name="Подвеска">Пневматическая, 1-я ось подъёмная</param>
+        <param name="Длина рабочей площадки">12300 мм</param>
+        <param name="Высота рабочей площадки">930 мм</param>
+        <param name="Тип прицепа">Низкорамный трал</param>
+        <param name="Габариты">16 400 × 2 550 × 3 100 мм</param>
+        <param name="Грузоподъёмность">60 000 кг</param>
+        <param name="Кол-во осей">4</param>
+      </offer>
+      <offer id="luxuda-lzc9402tdp" available="true">
+        <url>https://tral-diler.ru/catalog/traly4osi/luxuda-lzc9402tdp</url>
+        <price>6330000.00</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>263719542</categoryId>
+        <picture>https://static.tildacdn.com/stor6437-3261-4164-a663-316366653639/a0c583584991d8b20d182f060d8e95e2.webp</picture>
+        <picture>https://static.tildacdn.com/stor3963-3164-4137-b565-623765626262/2414263a3503b188d4656e0e13cb5c24.webp</picture>
+        <picture>https://static.tildacdn.com/tild3035-6434-4638-b765-336461663239/luxuda-tral.webp</picture>
+        <name>Низкорамный трал LUXUDA (Люксуда) LZC9402TDP — 4 оси, 60 тонн</name>
+        <typePrefix>Низкорамный трал</typePrefix>
+        <vendor>LUXUDA</vendor>
+        <model>LZC9402TDP</model>
+        <description>Низкорамный трал LUXUDA LZC9402TDP: 4 оси Fuwa, 60 тонн, пневмоподвеска, подъёмная и поворотная оси, тормоза WABCO ABS, раздвижные трапы. Поставка по РФ.</description>
+        <param name="Тип">Низкорамный трал</param>
+        <param name="Марка">LUXUDA LZC9402TDP</param>
+        <param name="Модель">LZC9402TDP</param>
+        <param name="Габариты (ДхШхВ)">16000х2550х3412мм</param>
+        <param name="Грузоподъемность">60 тонн</param>
+        <param name="Подвеска">Пневматическая. 1-ая — Подъемная, 4-ая — Поворотная</param>
+        <param name="Длина рабочей площадки">12500 мм</param>
+        <param name="Высота рабочей площадки">970 мм (+/-20) мм</param>
+        <param name="Тип прицепа">Низкорамный трал</param>
+        <param name="Габариты (Д×Ш×В)">16000 х 2550 х 3412 мм</param>
+        <param name="Грузоподъёмность">60 000 кг</param>
+        <param name="Кол-во осей">4</param>
+      </offer>
+      <offer id="luxuda-lzc9402tdp-2" available="true">
+        <url>https://tral-diler.ru/catalog/traly4osi/luxuda-lzc9402tdp-2</url>
+        <price>6300000.00</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>263719542</categoryId>
+        <picture>https://static.tildacdn.com/stor3338-6130-4764-b034-643162623139/feb0a406e3ccb93edc710a51ffa08fb2.webp</picture>
+        <picture>https://static.tildacdn.com/stor6262-3164-4337-a630-363030653161/d71368669618737015e25743c451e23e.webp</picture>
+        <picture>https://static.tildacdn.com/tild3139-3638-4439-b338-663666366261/luxuda.webp</picture>
+        <name>Среднерамный трал LUXUDA (Люксуда) LZC9402TDP — 4 оси, 90 тонн</name>
+        <typePrefix>Среднерамный трал</typePrefix>
+        <vendor>LUXUDA</vendor>
+        <model>LZC9402TDP</model>
+        <description>Среднерамный трал LUXUDA LZC9402TDP: 4 оси Fuwa по 20 т, 90 тонн, рессорная подвеска, шины 315/80R22.5, платформа с расширением до 3700 мм. Поставка по РФ.</description>
+        <param name="Тип">Среднерамный трал</param>
+        <param name="Марка">LUXUDA LZC9402TDP</param>
+        <param name="Модель">LZC9402TDP</param>
+        <param name="Габариты (ДхШхВ)">16500x3000/3700x3714мм</param>
+        <param name="Грузоподъемность">90 тонн</param>
+        <param name="Подвеска">Рессорная</param>
+        <param name="Длина рабочей площадки">12386 мм</param>
+        <param name="Высота рабочей площадки">1254 мм</param>
+        <param name="Тип прицепа">Среднерамный трал</param>
+        <param name="Габариты (Д×Ш×В)">16500 x 3000/3700 x 3714 мм</param>
+        <param name="Грузоподъёмность">90 000 кг</param>
+        <param name="Кол-во осей">4</param>
+      </offer>
+      <offer id="amur-lyr9907tdp" available="true">
+        <url>https://tral-diler.ru/catalog/traly4osi/amur-lyr9907tdp</url>
+        <price>5500000.00</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>263719542</categoryId>
+        <picture>https://static.tildacdn.com/stor6639-3961-4432-b833-383065376563/2dd93cce021a8bfbf2414aabe53733d9.webp</picture>
+        <picture>https://static.tildacdn.com/stor3065-6231-4936-a130-656430613764/abe8d0ec6df88e471044adc1b655e41f.webp</picture>
+        <picture>https://static.tildacdn.com/tild6139-3435-4239-b261-613765636537/tral-amur.webp</picture>
+        <name>Среднерамный трал AMUR (Амур) LYR9907TDP — 4 оси, 90 тонн</name>
+        <typePrefix>Среднерамный трал</typePrefix>
+        <vendor>AMUR</vendor>
+        <model>LYR9907TDP</model>
+        <description>Среднерамный трал AMUR LYR9907TDP: 4 оси Fuwa по 20 т, 90 тонн, рессорная подвеска, шины 315/80R22.5, площадка 11051 мм высотой 1236 мм, коники. Поставка по РФ.</description>
+        <param name="Тип">Среднерамный трал</param>
+        <param name="Марка">AMUR LYR9907TDP</param>
+        <param name="Модель">LYR9907TDP</param>
+        <param name="Габариты (ДхШхВ)">15200x3000x3500мм</param>
+        <param name="Грузоподъемность">90 тонн</param>
+        <param name="Подвеска">Рессорная</param>
+        <param name="Длина рабочей площадки">11051 мм</param>
+        <param name="Высота рабочей площадки">1236 мм</param>
+        <param name="Тип прицепа">Среднерамный трал</param>
+        <param name="Габариты (Д×Ш×В)">15200 x 3000 x 3500 мм</param>
+        <param name="Грузоподъёмность">90 000 кг</param>
+        <param name="Кол-во осей">4</param>
+      </offer>
+      <offer id="tongyada-cty9804dps" available="true">
+        <url>https://tral-diler.ru/catalog/traly4osi/tongyada-cty9804dps</url>
+        <price>5900000.00</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>263719542</categoryId>
+        <picture>https://static.tildacdn.com/stor3539-3434-4539-a663-623238326134/b5b1c1a1134ddf107c030bffe1720edf.webp</picture>
+        <picture>https://static.tildacdn.com/stor3533-6635-4166-a363-613031626132/c31f9f16ac9532611e8b6e5431295356.webp</picture>
+        <picture>https://static.tildacdn.com/tild6366-6338-4664-a162-316133326630/tral-tongyada.webp</picture>
+        <name>Среднерамный трал TONGYADA (Тонгъяда) CTY9804TDPS — 4 оси, 80 тонн</name>
+        <typePrefix>Среднерамный трал</typePrefix>
+        <vendor>TONGYADA</vendor>
+        <model>CTY9804TDPS</model>
+        <description>Среднерамный трал TONGYADA CTY9804TDPS: 4 оси Fuwa, 80 тонн, рессорная подвеска с подъёмной осью, сталь Q355B, шины 11.00R20, площадка 13000 мм. Поставка по РФ.</description>
+        <param name="Тип">Среднерамный трал</param>
+        <param name="Марка">TONGYADA CTY9804TDPS</param>
+        <param name="Модель">CTY9804TDPS</param>
+        <param name="Габариты (ДхШхВ)">17200х2500х3000мм</param>
+        <param name="Грузоподъемность">80 тонн</param>
+        <param name="Подвеска">Рессорная. 1-ая ось подъемная Пневматическая</param>
+        <param name="Длина рабочей площадки">13000 мм</param>
+        <param name="Высота рабочей площадки">1230 мм</param>
+        <param name="Сталь">Q355B</param>
+        <param name="Тип прицепа">Среднерамный трал</param>
+        <param name="Габариты (Д×Ш×В)">17200 х 2500 х 3000 мм</param>
+        <param name="Грузоподъёмность">80 000 кг</param>
+        <param name="Кол-во осей">4</param>
+      </offer>
+      <offer id="tongyada-cty9804dps-4" available="true">
+        <url>https://tral-diler.ru/catalog/traly4osi/tongyada-cty9804dps-4</url>
+        <price>6800000.00</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>263719542</categoryId>
+        <picture>https://static.tildacdn.com/stor6435-6134-4662-a336-306264386336/0fb42f0b947f28d1f81b68634e97fc00.jpg</picture>
+        <picture>https://static.tildacdn.com/stor6630-6462-4233-b962-356630663431/ce3a83adb4fce612766eba1abf00408d.jpg</picture>
+        <picture>https://static.tildacdn.com/tild3736-6437-4139-b331-643366363239/tongyada-tral-9804.webp</picture>
+        <name>Среднерамный трал TONGYADA (Тонгъяда) CTY9804TDPS — 4 оси, 90 тонн</name>
+        <typePrefix>Среднерамный трал</typePrefix>
+        <vendor>TONGYADA</vendor>
+        <model>CTY9804TDPS</model>
+        <description>Среднерамный трал TONGYADA CTY9804TDPS: 4 оси FUWA, 90 тонн, рессорная подвеска, шины 315/80R22.5, площадка 12300 мм, трапы до 3500 мм, фитинги 20/40. Поставка по РФ.</description>
+        <param name="Тип">Среднерамный трал</param>
+        <param name="Марка">TONGYADA CTY9804TDPS</param>
+        <param name="Модель">CTY9804TDPS</param>
+        <param name="Габариты (ДхШхВ)">16500х2500х3000мм</param>
+        <param name="Грузоподъемность">90 тонн</param>
+        <param name="Подвеска">Рессорная, Положение рессор верхнее</param>
+        <param name="Длина рабочей площадки">12300 мм</param>
+        <param name="Высота рабочей площадки">1250-1270 мм</param>
+        <param name="Тип прицепа">Среднерамный трал</param>
+        <param name="Габариты">16500 х 2500 х 3000 мм</param>
+        <param name="Грузоподъёмность">90 000 кг</param>
+        <param name="Кол-во осей">4</param>
+      </offer>
+      <offer id="tongyada-cty9804tdps-zheltyy" available="true">
+        <url>https://tral-diler.ru/catalog/traly4osi/tongyada-cty9804tdps-zheltyy</url>
+        <price>6800000.00</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>263719542</categoryId>
+        <picture>https://static.tildacdn.com/stor3461-3934-4739-b833-306362393838/10820ec02421875a365853c1b4afc535.webp</picture>
+        <picture>https://static.tildacdn.com/stor3235-3537-4332-a336-313764323735/199bd790fbba181a62b01c860a6e02fa.webp</picture>
+        <picture>https://static.tildacdn.com/tild3633-3866-4465-a332-636564306239/tongya-auto-9804.webp</picture>
+        <name>Среднерамный трал TONGYADA (Тонгъяда) CTY9804TDPS — жёлтый, 90 тонн</name>
+        <typePrefix>Среднерамный трал</typePrefix>
+        <vendor>TONGYADA</vendor>
+        <model>CTY9804TDPS</model>
+        <description>Среднерамный трал TONGYADA CTY9804TDPS в жёлтом цвете: 4 оси FUWA, 90 тонн, рессорная подвеска, шины 315/80R22.5, трапы до 3500 мм, фитинги 20/40. Поставка по РФ.</description>
+        <param name="Тип">Среднерамный трал</param>
+        <param name="Марка">TONGYADA CTY9804TDPS</param>
+        <param name="Модель">CTY9804TDPS</param>
+        <param name="Габариты (ДхШхВ)">16500х2500х3000мм</param>
+        <param name="Грузоподъемность">90 тонн</param>
+        <param name="Подвеска">Рессорная, Положение рессор верхнее</param>
+        <param name="Длина рабочей площадки">12300 мм</param>
+        <param name="Высота рабочей площадки">1250-1270 мм</param>
+        <param name="Тип прицепа">Среднерамный трал</param>
+        <param name="Габариты">16500 х 2500 х 3000 мм</param>
+        <param name="Грузоподъёмность">90 000 кг</param>
+        <param name="Кол-во осей">4</param>
+      </offer>
+      <offer id="tral-tongyada-cty9804tdps" available="true">
+        <url>https://tral-diler.ru/catalog/traly4osi/tral-tongyada-cty9804tdps</url>
+        <price>7770000.00</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>263719542</categoryId>
+        <picture>https://static.tildacdn.com/stor6635-3934-4636-b631-343139656165/51716dbc85ae7631b779f8f18d7e8aa0.webp</picture>
+        <picture>https://static.tildacdn.com/stor3737-3161-4130-a631-346636396335/c8f2f39872d2cb1a7043c2f80d5318fa.webp</picture>
+        <picture>https://static.tildacdn.com/tild3762-3339-4135-a233-653835663337/tongyada-tral.webp</picture>
+        <name>Низкорамный трал TONGYADA (Тонгяда) CTY9804TDPS — 4 оси, 63 тонны</name>
+        <typePrefix>Низкоармный трал</typePrefix>
+        <vendor>TONGYADA</vendor>
+        <model>CTY9804TDPS</model>
+        <description>Низкорамный трал TONGYADA CTY9804TDPS: 4 оси FUWA по 11,5 т, 63 тонны, пневмоподвеска, гидротрапы с дистанционным управлением, автономная гидростанция. Поставка по РФ.</description>
+        <param name="Тип">Низкоармный трал</param>
+        <param name="Марка">TONGYADA CTY9804TDPS</param>
+        <param name="Модель">CTY9804TDPS</param>
+        <param name="Габариты (ДхШхВ)">16400х2550х3420мм</param>
+        <param name="Грузоподъемность">65 тонн</param>
+        <param name="Подвеска">Пневматическая</param>
+        <param name="Длина рабочей площадки">12400 мм</param>
+        <param name="Высота рабочей площадки">930-950 мм</param>
+        <param name="Тип прицепа">Низкорамный трал</param>
+        <param name="Габариты">16400 х 2550 х 3420 мм</param>
+        <param name="Грузоподъёмность">65 000 кг</param>
+        <param name="Кол-во осей">4</param>
+      </offer>
+      <offer id="tongyada-cty9804" available="true">
+        <url>https://tral-diler.ru/catalog/traly4osi/tongyada-cty9804</url>
+        <price>7000000.00</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>263719542</categoryId>
+        <picture>https://static.tildacdn.com/stor3865-3233-4035-b865-323163336231/410f58c130d4301fabe903d44cedc52c.webp</picture>
+        <picture>https://static.tildacdn.com/stor6563-3834-4831-b165-316565666166/c230c687bbeba77e89369b91c39a8453.webp</picture>
+        <picture>https://static.tildacdn.com/tild6361-3865-4936-a139-313862393063/tral-tongyada-9804.webp</picture>
+        <name>Среднерамный трал TONGYADA (Тонгъяда) CTY9804, 4 оси</name>
+        <typePrefix>Среднерамный трал</typePrefix>
+        <vendor>TONGYADA</vendor>
+        <model>CTY9804TDPS</model>
+        <description>Среднерамный трал TONGYADA CTY9804: 4 оси FUWA по 20 т, грузоподъёмность 62-64 т по ОТТС (до 90 т конструктивная), площадка 11,8 м, высота 1250 мм, уширители 350 мм, раздвижные трапы на 3700 мм. ОТТС, поставка по РФ.</description>
+        <param name="Тип">Среднерамный трал</param>
+        <param name="Марка">TONGYADA CTY9804TDPS</param>
+        <param name="Модель">CTY9804TDPS</param>
+        <param name="Габариты (ДхШ)">15 800 × 3 000 мм</param>
+        <param name="Грузоподъемность">90 тонн</param>
+        <param name="Подвеска">Рессорная (верхнее расположение рессор)</param>
+        <param name="Длина рабочей площадки">11 800 мм</param>
+        <param name="Высота рабочей площадки">1250–1270 мм</param>
+        <param name="Тип прицепа">Среднерамный трал</param>
+        <param name="Габариты (Д×Ш)">15 800 × 3 000 мм</param>
+        <param name="Грузоподъёмность">90 000 кг</param>
+        <param name="Кол-во осей">4</param>
+      </offer>
+      <offer id="tongyada-cty9804dps-2" available="true">
+        <url>https://tral-diler.ru/catalog/traly4osi/tongyada-cty9804dps-2</url>
+        <price>7100000.00</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>263719542</categoryId>
+        <picture>https://static.tildacdn.com/stor6235-3630-4563-a262-623039366431/696b515912040c1a5b2f9f089afa24a1.webp</picture>
+        <picture>https://static.tildacdn.com/stor6566-6637-4963-b239-383838386430/984a0ed2b55152f9ae0c0139c54b1b2f.webp</picture>
+        <picture>https://static.tildacdn.com/tild3736-3733-4562-a432-663239646331/tral-tongyada-9804td.webp</picture>
+        <name>Высокорамный трал TONGYADA (Тонгъяда) CTY9804TDPS — 90 т, двускатный</name>
+        <typePrefix>Высокорамный трал</typePrefix>
+        <vendor>TONGYADA</vendor>
+        <model>CTY9804TDPS</model>
+        <description>Высокорамный трал TONGYADA CTY9804TDPS: 4 оси Fuwa, 90 тонн, рессорная подвеска, двускатные шины 12.00R20, площадка 11800 мм, трапы до 3250 мм. Поставка по РФ.</description>
+        <param name="Тип">Высокорамный трал</param>
+        <param name="Марка">TONGYADA CTY9804TDPS</param>
+        <param name="Модель">CTY9804TDPS</param>
+        <param name="Габариты (ДхШхВ)">15800х2500х3730мм</param>
+        <param name="Грузоподъемность">90 тонн</param>
+        <param name="Подвеска">Рессорная. Положение рессор верхнее</param>
+        <param name="Длина рабочей площадки">11800 мм</param>
+        <param name="Высота рабочей площадки">1300 мм (+/-)</param>
+        <param name="Тип прицепа">Высокорамный трал</param>
+        <param name="Габариты (Д×Ш×В)">15800 х 2500 х 3730 мм</param>
+        <param name="Грузоподъёмность">90 000 кг</param>
+        <param name="Кол-во осей">4</param>
+      </offer>
+      <offer id="tongyada-cty9804dps-3" available="true">
+        <url>https://tral-diler.ru/catalog/traly4osi/tongyada-cty9804dps-3</url>
+        <price>8000000.00</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>263719542</categoryId>
+        <picture>https://static.tildacdn.com/stor3264-6639-4530-a461-383832646164/1fd9797f6547c8bc1f6d77b892caaaa2.webp</picture>
+        <picture>https://static.tildacdn.com/stor3337-3965-4663-b235-363561336638/66a43a518cbf7d15f33c4ec863fd7c89.webp</picture>
+        <picture>https://static.tildacdn.com/tild3530-6661-4866-a531-306537623564/tral-tongyada-9804.webp</picture>
+        <name>Высокорамный трал TONGYADA (Тонгяда) CTY9804TDPS — 4 оси, 70 тонн</name>
+        <typePrefix>Высокорамный трал</typePrefix>
+        <vendor>TONGYADA</vendor>
+        <model>CTY9804TDPS</model>
+        <description>Высокорамный трал TONGYADA CTY9804TDPS: 4 оси BPW, 70 тонн, пневмоподвеска, односкатные 425/65R22.5, площадка 12300 мм, коники, фитинги 20/40. Поставка по РФ.</description>
+        <param name="Тип">Высокорамный трал</param>
+        <param name="Марка">TONGYADA CTY9804TDPS</param>
+        <param name="Модель">CTY9804TDPS</param>
+        <param name="Габариты (ДхШхВ)">17200х3000х3950 мм</param>
+        <param name="Грузоподъемность">70 тонн</param>
+        <param name="Подвеска">Пневматическая</param>
+        <param name="Длина рабочей площадки">12300 мм</param>
+        <param name="Высота рабочей площадки">1300 мм</param>
+        <param name="Тип прицепа">Высокорамный трал</param>
+        <param name="Габариты">17200 х 3000 х 3950 мм</param>
+        <param name="Грузоподъёмность">70 000 кг</param>
+        <param name="Кол-во осей">4</param>
+      </offer>
+      <offer id="tongyada-tral-koryto" available="true">
+        <url>https://tral-diler.ru/catalog/traly4osi/tongyada-tral-koryto</url>
+        <price>5700000.00</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>263719542</categoryId>
+        <picture>https://static.tildacdn.com/stor6565-6137-4461-a135-393237333262/7fcd7726640f15e1f72f06d501a7116e.webp</picture>
+        <picture>https://static.tildacdn.com/stor3864-6162-4464-b966-376535643864/4ca248871a035bbb9fa5edc9d74cbf1d.webp</picture>
+        <picture>https://static.tildacdn.com/tild6564-3931-4966-a430-646636333264/korito-tral.webp</picture>
+        <name>Трал-корыто TONGYADA (Тонгъяда), 4 оси (среднерамный)</name>
+        <typePrefix>Среднерамный трал-корыто</typePrefix>
+        <vendor>TONGYADA</vendor>
+        <model>(трал-корыто)</model>
+        <description>Среднерамный трал-корыто TONGYADA: грузоподъёмность 65 т, 4 оси FUWA (1 подъёмная), гидравлические трапы двойного сложения, откидные уширители, фитинги под контейнер. В наличии. Поставка по РФ, ОТТС.</description>
+        <param name="Тип">Среднерамный трал-корыто</param>
+        <param name="Марка">TONGYADA (трал-корыто)</param>
+        <param name="Габариты (ДхШхВ)">16 810 × 3 000 × 3 710 мм</param>
+        <param name="Грузоподъемность">65 000 кг</param>
+        <param name="Подвеска">Пневматическая</param>
+        <param name="Длина рабочей площадки">7 000 мм</param>
+        <param name="Высота рабочей площадки">930 мм</param>
+        <param name="Тип прицепа">Трал-корыто среднерамный</param>
+        <param name="Габариты (Д×Ш×В)">16 810 × 3 000 × 3 710 мм</param>
+        <param name="Грузоподъёмность">65 000 кг</param>
+        <param name="Кол-во осей">4 (1 подъёмная)</param>
+      </offer>
+      <offer id="cimc-lyr9709tdp" available="true">
+        <url>https://tral-diler.ru/catalog/traly4osi/cimc-lyr9709tdp</url>
+        <price>7500000.00</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>263719542</categoryId>
+        <picture>https://static.tildacdn.com/stor3235-6664-4134-b936-363037663634/6cb23c8f14949af8107ab16c9f2e1c52.webp</picture>
+        <picture>https://static.tildacdn.com/tild3665-3736-4435-b138-386136313635/tral-amur.webp</picture>
+        <name>Среднерамный трал-корыто CIMC (AMUR) LYR9709TDP — 4 оси, 80 тонн</name>
+        <typePrefix>Среднерамный трал-корыто</typePrefix>
+        <vendor>CIMC</vendor>
+        <model>LYR9709TDP</model>
+        <description>Среднерамный трал-корыто CIMC (AMUR) LYR9709TDP: 4 оси Fuwa по 20 т, 80 тонн, рессорная подвеска, сталь Q690E, пониженная площадка 900-950 мм, бак 1000 л. Поставка по РФ.</description>
+        <param name="Тип">Среднерамный трал-корыто</param>
+        <param name="Марка">CIMC (AMUR) LYR9709TDP</param>
+        <param name="Модель">LYR9709TDP</param>
+        <param name="Габариты (ДхШхВ)">18000х3000х3740мм</param>
+        <param name="Грузоподъемность">80 тонн</param>
+        <param name="Подвеска">Рессорная</param>
+        <param name="Длина рабочей площадки">7500 мм</param>
+        <param name="Высота рабочей площадки">900-950 мм</param>
+        <param name="Сталь">Q690E</param>
+        <param name="Тип прицепа">Среднерамный трал</param>
+        <param name="Габариты (Д×Ш×В)">18000 х 3000 х 3740 мм</param>
+        <param name="Грузоподъёмность">80 000 кг</param>
+        <param name="Кол-во осей">4</param>
+      </offer>
+      <offer id="amur-lyr9806tdpw-5" available="true">
+        <url>https://tral-diler.ru/catalog/traly5osnyye/amur-lyr9806tdpw-5</url>
+        <price>10500000.00</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>869083505</categoryId>
+        <picture>https://static.tildacdn.com/stor3635-6139-4131-b530-343634313562/9e9871f20288ef834525c30a0563878c.webp</picture>
+        <picture>https://static.tildacdn.com/stor6332-6230-4137-b137-303836613435/408c524f152eb51b1c21880c8ca2c11a.webp</picture>
+        <picture>https://static.tildacdn.com/tild6633-3630-4137-a165-663961646431/amur-9806.webp</picture>
+        <name>Низкорамный раздвижной (телескопический) трал AMUR LYR9806TDPW — 70 тонн</name>
+        <typePrefix>Низкорамный раздвижной телескопический трал</typePrefix>
+        <vendor>AMUR</vendor>
+        <model>LYR9806TDPW</model>
+        <description>Низкорамный раздвижной трал AMUR LYR9806TDPW: 5 осей Fuwa, 70 т, телескопическая рама +8000 мм (до 19,4 м), пневмоподвеска, поворотные оси, камера заднего вида. По РФ.</description>
+        <param name="Тип">Низкорамный раздвижной телескопический трал</param>
+        <param name="Марка">AMUR LYR9806TDPW</param>
+        <param name="Модель">LYR9806TDPW</param>
+        <param name="Габариты (ДхШхВ)">15950х2530/3000х1890мм</param>
+        <param name="Грузоподъемность">70 тонн</param>
+        <param name="Подвеска">Пневматическая. 1 и 2-ая ось — Подъемные. 4 и 5-ая — Поворотные</param>
+        <param name="Длина рабочей площадки">11400 мм</param>
+        <param name="Высота рабочей площадки">900-930 мм</param>
+        <param name="Тип прицепа">Низкорамный раздвижной трал</param>
+        <param name="Габариты">15950 х 2530/3000 х 1890 мм</param>
+        <param name="Грузоподъёмность">70 000 кг (40 000 кг в раздвинутом состоянии)</param>
+        <param name="Кол-во осей">5</param>
+      </offer>
+      <offer id="amur-lyr9906tdpl-4" available="true">
+        <url>https://tral-diler.ru/catalog/traly6osnyye/amur-lyr9906tdpl-4</url>
+        <price>8550000.00</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>35992556</categoryId>
+        <picture>https://static.tildacdn.com/stor6462-3334-4734-b231-613535316433/70c2985ee3294aa47654ee7b75704896.webp</picture>
+        <picture>https://static.tildacdn.com/stor3636-3539-4634-b833-353463376530/a7da08024eddc1e9de73bed7c2e78319.webp</picture>
+        <picture>https://static.tildacdn.com/tild6237-6362-4761-b663-653938326233/31431431.webp</picture>
+        <name>Низкорамный раздвижной трал AMUR (Амур) LYR9906TDPL с автономной гидравликой</name>
+        <typePrefix>Низкорамный раздвижной телескопический трал</typePrefix>
+        <vendor>AMUR</vendor>
+        <model>LYR9906TDPL</model>
+        <description>Раздвижной трал AMUR LYR9906TDPL с автономной гидростанцией: 6 осей FUWA, 80 т, гидравлические трапы двойного сложения, гидро-ССУ 1250–1550 мм, телескопика 12900+6000 мм. Поставка по РФ, ОТТС.</description>
+        <param name="Тип">Низкорамный раздвижной телескопический трал</param>
+        <param name="Марка">AMUR LYR9906TDPL (гидравлический)</param>
+        <param name="Модель">LYR9906TDPL</param>
+        <param name="Габариты (ДхШхВ)">16800х2550/3000х3379 мм</param>
+        <param name="Грузоподъемность">80 тонн</param>
+        <param name="Подвеска">Пневматическая 1-ая — Подъемная-поворотная, 2, 3 и 4-ая ось — Стационарные, 5 и 6-ая ось — Подъемные-поворотные</param>
+        <param name="Длина рабочей площадки">11400 мм</param>
+        <param name="Высота рабочей площадки">900-930 мм</param>
+        <param name="Тип прицепа">Раздвижной низкорамный трал</param>
+        <param name="Габариты (Д×Ш×В)">16800 х 2550/3000 х 3379 мм</param>
+        <param name="Грузоподъёмность">80 000 кг</param>
+        <param name="Кол-во осей">6</param>
+      </offer>
+      <offer id="amur-lyr9900tdpq" available="true">
+        <url>https://tral-diler.ru/catalog/traly7osnyye/amur-lyr9900tdpq</url>
+        <price>10900000.00</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>609368152</categoryId>
+        <picture>https://static.tildacdn.com/stor3862-6630-4961-b930-636564613266/40b11d1d7be494dbf662b86ee44a6573.webp</picture>
+        <picture>https://static.tildacdn.com/stor6633-6637-4238-b832-303265633631/8854e53eccf35bbec98af81d21ea2dbd.webp</picture>
+        <picture>https://static.tildacdn.com/tild3362-3334-4631-b062-663761383339/Slide_16_9_-_1234.webp</picture>
+        <name>Низкорамный раздвижной (телескопический) трал AMUR (Амур) LYR9900TDPQ</name>
+        <typePrefix>Низкорамный раздвижной телескопический трал</typePrefix>
+        <vendor>AMUR</vendor>
+        <model>LYR9900TDPQ</model>
+        <description>Раздвижной низкорамный трал AMUR LYR9900TDPQ: грузоподъёмность 90 т, 7 осей Fuwa, телескопическая площадка 11550+7500 мм, уширители, фитинги под контейнер. Поставка по РФ, ОТТС, лизинг.</description>
+        <param name="Тип">Низкорамный раздвижной телескопический трал</param>
+        <param name="Марка">AMUR LYR9900TDPQ</param>
+        <param name="Модель">LYR9900TDPQ</param>
+        <param name="Габариты (ДхШхВ)">16100х2530х1860мм</param>
+        <param name="Грузоподъемность">90 тонн</param>
+        <param name="Подвеска">Пневматическая. 1, 2, 3, 6 и 7-ая — Подъемно-поворотные.</param>
+        <param name="Длина рабочей площадки">11550 мм</param>
+        <param name="Высота рабочей площадки">930-980 мм</param>
+        <param name="Трапы">Приставные алюминиевые 2300х450мм</param>
+        <param name="Тип прицепа">Раздвижной низкорамный трал</param>
+        <param name="Габариты">16100 х 2530 х 1860 мм</param>
+        <param name="Грузоподъёмность">90 000 кг</param>
+        <param name="Кол-во осей">7</param>
+      </offer>
+      <offer id="tongyada-cty9860dpxz-2" available="true">
+        <url>https://tral-diler.ru/catalog/tralyosobyye/tongyada-cty9860dpxz-2</url>
+        <price>8700000.00</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>800757843</categoryId>
+        <picture>https://static.tildacdn.com/stor6265-3964-4437-b932-333134343262/ca2ee6bccc248aa79eb405b3f841d263.webp</picture>
+        <picture>https://static.tildacdn.com/stor6333-3864-4564-b337-313336626435/9f7a3c17cab4a60b640316ee6943b403.webp</picture>
+        <picture>https://static.tildacdn.com/tild3561-3030-4239-a630-313538343836/tral-tongyada.webp</picture>
+        <name>Низкорамный тяжеловоз TONGYADA (Тонгъяда) CTY9860TDPXZ с закрытым типом колёс</name>
+        <typePrefix>Низкорамный трал (32 колеса)</typePrefix>
+        <vendor>TONGYADA</vendor>
+        <model>CTY9860TDPXZ</model>
+        <description>Низкорамный тяжеловоз TONGYADA CTY9860TDPXZ с закрытым типом колёс: 100 т, 8 балансирных осей, 32 колеса, удлинённая площадка 12,3 м, контейнерные замки, усиленные полы. ОТТС, поставка по РФ.</description>
+        <param name="Тип">Низкорамный трал (32 колеса)</param>
+        <param name="Марка">TONGYADA CTY9860TDPXZ (закрытые колёса)</param>
+        <param name="Модель">CTY9860TDPXZ</param>
+        <param name="Габариты (ДхШхВ)">16350х3000/3500х3830мм</param>
+        <param name="Грузоподъемность">100 тонн</param>
+        <param name="Подвеска">Безрессорная балансирная. 8 независимых осей</param>
+        <param name="Длина рабочей площадки">12300 мм</param>
+        <param name="Высота рабочей площадки">870-900 мм</param>
+        <param name="Высота ССУ">Регулируемая 1350-1550 мм</param>
+        <param name="Тип прицепа">Низкорамный трал (тяжеловоз)</param>
+        <param name="Габариты (Д×Ш×В)">16350 х 3000/3500 х 3830 мм</param>
+        <param name="Грузоподъёмность">100 000 кг</param>
+        <param name="Кол-во осей">8 независимых балансирных</param>
+      </offer>
+      <offer id="amur-lyr9708tdp-7" available="true">
+        <url>https://tral-diler.ru/catalog/traly4osi/amur-lyr9708tdp-7</url>
+        <price>8730000.00</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>263719542</categoryId>
+        <picture>https://static.tildacdn.com/stor6466-3063-4032-b564-323132613838/f1947be22c49e7666990805682d46ee7.webp</picture>
+        <picture>https://static.tildacdn.com/stor3764-6361-4462-b632-363566656533/491e21e9f72e4092e7bde9dd9c7dade9.webp</picture>
+        <picture>https://static.tildacdn.com/tild3961-6331-4331-b462-373863353237/tral-amur-LYR9708TDP.webp</picture>
+        <name>Низкорамный раздвижной (телескопический) трал AMUR LYR9708TDP</name>
+        <typePrefix>Низкорамный раздвижной трал</typePrefix>
+        <vendor>AMUR</vendor>
+        <model>LYR9708TDP</model>
+        <description>Низкорамный раздвижной трал AMUR LYR9708TDP: 4 оси Fuwa, 50 т, телескопическая рама +6000 мм, пневмоподвеска, поворотная ось, площадка 11300 мм. Поставка по РФ.</description>
+        <param name="Тип">Низкорамный раздвижной трал</param>
+        <param name="Марка">AMUR LYR9708TDP</param>
+        <param name="Модель">LYR9708TDP</param>
+        <param name="Габариты (ДхШхВ)">13425х2550/3000х1850 мм</param>
+        <param name="Грузоподъемность">70 тонн</param>
+        <param name="Подвеска">1-ая — Подъемная, 2 и 3 — Стационарные, 4-ая — Поворотная</param>
+        <param name="Длина рабочей площадки">11300 мм +6000 мм (раздвижка)</param>
+        <param name="Высота рабочей площадки">900-930 мм</param>
+        <param name="Тип прицепа">Низкорамный раздвижной трал</param>
+        <param name="Габариты (Д×Ш×В)">13425 х 2550/3000 х 1850 мм</param>
+        <param name="Грузоподъёмность">50 000 кг (30 000 кг в раздвинутом состоянии)</param>
+        <param name="Кол-во осей">4</param>
+      </offer>
+      <offer id="205543861542-nizkoramnii-razdvizhnoi-tral-amur-amur-l" available="true">
+        <url>https://tral-diler.ru/catalog/205543861542-nizkoramnii-razdvizhnoi-tral-amur-amur-l</url>
+        <price>6400000.00</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>332468484</categoryId>
+        <picture>https://static.tildacdn.com/stor3362-3866-4737-a361-383633386431/05d826e1c2d14b0dd1beb5cc1a3ced0d.webp</picture>
+        <picture>https://static.tildacdn.com/stor6536-3462-4261-b063-626566343565/cafcd4dd1f707cdbbb3170ab8bb582bd.jpg</picture>
+        <picture>https://static.tildacdn.com/stor3862-6434-4530-a231-396162383038/45030827.jpg</picture>
+        <picture>https://static.tildacdn.com/stor6664-6536-4531-a434-646334633437/88724584.png</picture>
+        <picture>https://static.tildacdn.com/stor3935-6163-4261-b036-653738396130/79060835.jpg</picture>
+        <picture>https://static.tildacdn.com/stor3834-3833-4965-a666-326236613834/65926897.jpg</picture>
+        <picture>https://static.tildacdn.com/stor3864-3034-4033-b334-663832636335/96100542.jpg</picture>
+        <picture>https://static.tildacdn.com/stor6638-3530-4035-a331-653432656336/46052354.jpg</picture>
+        <picture>https://static.tildacdn.com/stor6566-3134-4964-b834-666138343633/23236934.jpg</picture>
+        <picture>https://static.tildacdn.com/stor3364-3533-4861-b830-326465383236/21548966.jpg</picture>
+        <name>Низкорамный раздвижной трал AMUR (Амур) LYR9806TDPW (Б/У 8000км)</name>
+        <typePrefix>Низкорамный-раздвижной телескопический трал (габаритный)</typePrefix>
+        <vendor>AMUR</vendor>
+        <model>LYR9806TDPW</model>
+        <description>Раздвижной телескопический трал AMUR LYR9806TDPW Б/У, грузоподъёмность 80 т, раздвижка +6000 мм, пневмоподвеска, подъемные 1–2 оси. В наличии в Нерюнгри. Купить у официального дилера Трал Дилер. Доставка по РФ.</description>
+        <param name="Тип">Низкорамный-раздвижной телескопический трал (габаритный)</param>
+        <param name="Марка">AMUR</param>
+        <param name="Модель">LYR9806TDPW</param>
+        <param name="Габариты (ДхШхВ)">17000х2550х3408мм</param>
+        <param name="Грузоподъемность">80 тонн</param>
+        <param name="Подвеска">Пневматическая. 1 и 2-ая ось — Подъемные. 3-ая ось —Стационарная. 4 и 5-ая ось — Поворотные</param>
+        <param name="Длина рабочей площадки">13000 мм</param>
+        <param name="Высота рабочей площадки">900-950 мм</param>
+      </offer>
+      <offer id="amur-lyr9401jsed" available="true">
+        <url>https://tral-diler.ru/catalog/container/amur-lyr9401jsed</url>
+        <price>4600000.00</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>1201859611</categoryId>
+        <picture>https://static.tildacdn.com/stor6431-6266-4237-b631-323231336339/8e7c97de2848ed5e4ad110e54f4fb807.webp</picture>
+        <picture>https://static.tildacdn.com/stor3563-6335-4265-b036-323838393535/278d1e985cd61eab9d9376d130b7cb16.webp</picture>
+        <picture>https://static.tildacdn.com/tild6635-3839-4061-a431-636436396565/Amur2.webp</picture>
+        <name>Контейнеровоз полуприцеп AMUR (Амур) LYR9401JSED</name>
+        <typePrefix>Контейнеровоз полуприцеп</typePrefix>
+        <vendor>AMUR</vendor>
+        <model>LYR9401JSED</model>
+        <description>Контейнеровоз AMUR LYR9401JSED для перевозки морских контейнеров. Грузоподъемность, количество осей, высота ССУ и условия поставки.</description>
+        <param name="Марка">AMUR LYR9401JSED</param>
+        <param name="Модель">LYR9401JSED</param>
+        <param name="Габариты (Д х Ш х В)">12525 х 2550 х 1260+/-20</param>
+        <param name="Грузоподъемность">40 тонн</param>
+        <param name="Подвеска">Пневматическая</param>
+        <param name="Количество осей">4 (2 оси подъемные, кран управления пневмо подвеской)</param>
+        <param name="Тип прицепа">Контейнеровоз полуприцеп</param>
+        <param name="Габариты">12525 х 2550 х 1260 (+/-) 20 мм</param>
+        <param name="Грузоподъёмность">40 000 кг</param>
+        <param name="Кол-во осей">4</param>
+      </offer>
+      <offer id="tongyada-cty9603-tdps-3" available="true">
+        <url>https://tral-diler.ru/catalog/traly3osi/tongyada-cty9603-tdps-3</url>
+        <price>5980000.00</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>309277391</categoryId>
+        <picture>https://static.tildacdn.com/stor3162-6636-4831-b362-393438366230/8030df00173d4f1dc6feb66430cb6ee9.webp</picture>
+        <picture>https://static.tildacdn.com/stor3266-3261-4435-b463-393461613262/63ce7039b74fcfb4b3a7a358b442b52e.webp</picture>
+        <picture>https://static.tildacdn.com/tild3563-6161-4739-b662-383632323766/tongya-auto-tongyada.webp</picture>
+        <name>Высокорамный трал TONGYADA (Тонгъяда) CTY9603TDPS — 3 оси, 80 тонн</name>
+        <typePrefix>Высокорамный трал</typePrefix>
+        <vendor>TONGYADA</vendor>
+        <model>CTY9603TDPS</model>
+        <description>Высокорамный трал TONGYADA CTY9603TDPS: 3 оси Fuwa по 20 т, 80 т, площадка 12,3 м, высота 1300 мм, шины 12R20, уширители 350 мм, ССУ 1250–1550. ОТТС, доставка по РФ.</description>
+        <param name="Тип">Высокорамный трал</param>
+        <param name="Марка">TONGYADA CTY9603TDPS</param>
+        <param name="Модель">CTY9603TDPS</param>
+        <param name="Габариты (ДхШхВ)">16400х2550х3600мм</param>
+        <param name="Грузоподъемность">80 тонн</param>
+        <param name="Подвеска">Рессорная , положение рессор сверху</param>
+        <param name="Длина рабочей площадки">12300 мм</param>
+        <param name="Высота рабочей площадки">1300 мм</param>
+        <param name="Трапы">М еханические, три пружины</param>
+        <param name="Тип прицепа">Высокорамный трал</param>
+        <param name="Габариты">16400 х 2550 х 3600 мм</param>
+        <param name="Грузоподъёмность">80 000 кг</param>
+        <param name="Кол-во осей">3</param>
+      </offer>
+      <offer id="tongyada-cty9603-tdps-4" available="true">
+        <url>https://tral-diler.ru/catalog/traly3osi/tongyada-cty9603-tdps-4</url>
+        <price>6400000.00</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>309277391</categoryId>
+        <picture>https://static.tildacdn.com/stor3466-3632-4935-a364-376365386362/7787433cb100aa0c974584de7ceb705b.webp</picture>
+        <picture>https://static.tildacdn.com/stor6365-3534-4361-a639-363235323532/98b6b7a89e389ae320e1dc9a16b27152.webp</picture>
+        <picture>https://static.tildacdn.com/tild3933-3264-4666-b165-386132366335/5N6A3832.webp</picture>
+        <name>Высокорамный трал TONGYADA (Тонгъяда) CTY9603TDPS на 80 тонн</name>
+        <typePrefix>Высокорамный трал</typePrefix>
+        <vendor>TONGYADA</vendor>
+        <model>CTY9603TDPS</model>
+        <description>Высокорамный трал TONGYADA CTY9603TDPS на 80 тонн: 3 оси Fuwa по 20 т, высота площадки 1300 мм, механические двухпружинные трапы, уширители, фитинги под контейнер. Для тяжёлой и негабаритной техники. Поставка по РФ, ОТТС.</description>
+        <param name="Тип">Высокорамный трал</param>
+        <param name="Марка">TONGYADA CTY9603TDPS</param>
+        <param name="Модель">CTY9603TDPS</param>
+        <param name="Габариты (ДхШхВ)">15800х2550х3000мм</param>
+        <param name="Грузоподъемность">80 тонн</param>
+        <param name="Подвеска">Рессорная , положение рессор сверху</param>
+        <param name="Длина рабочей площадки">11800 мм</param>
+        <param name="Высота рабочей площадки">1300 мм</param>
+        <param name="Трапы">М еханические, двухпружинные</param>
+        <param name="Тип прицепа">Высокорамный трал</param>
+        <param name="Габариты (Д×Ш×В)">15800 х 2550 х 30 00 мм</param>
+        <param name="Грузоподъёмность">80 000 кг</param>
+        <param name="Кол-во осей">3</param>
+      </offer>
+      <offer id="shengrun-skw9402gyy" available="true">
+        <url>https://tral-diler.ru/catalog/cisterny/shengrun-skw9402gyy</url>
+        <price>5750000.00</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>765885657</categoryId>
+        <picture>https://static.tildacdn.com/stor3234-6365-4163-b135-373664373765/edd63648aff60e08b2bce0725a13d8ba.webp</picture>
+        <picture>https://static.tildacdn.com/stor6638-3830-4138-b939-333962313931/224aa1800b553bc7632e81c68ffc77ba.webp</picture>
+        <picture>https://static.tildacdn.com/tild6331-3265-4130-b966-313561666462/shengrun.webp</picture>
+        <name>Цистерна полуприцеп SHENGRUN (Шэнгран) SKW9402GYY</name>
+        <typePrefix>Полуприцеп-цистерна</typePrefix>
+        <vendor>SHENGRUN</vendor>
+        <model>SKW9402GYY</model>
+        <description>Полуприцеп-цистерна SHENGRUN SKW9402GYY объёмом 36 м³ для перевозки нефтепродуктов. 3 секции, усиленная сталь Q325B, API-клапан, FUWA, подъёмная ось. Поставка по России.</description>
+        <param name="Тип">Полуприцеп-цистерна</param>
+        <param name="Марка">SHENGRUN SKW9402GYY</param>
+        <param name="Модель">SKW9402GYY</param>
+        <param name="Габариты (ДхШхВ)">11300х2500х3900мм</param>
+        <param name="Грузоподъемность">28.8 тонн</param>
+        <param name="Подвеска">Балансирная + 1ая подъемная ось</param>
+        <param name="Снаряженная масса">11.7 тонн</param>
+        <param name="Объем">36 м 3 / 3 секции</param>
+        <param name="Количество секций">3 шт.</param>
+        <param name="Тип прицепа">Полуприцеп-цистерна</param>
+        <param name="Габариты">11300 х 2500 х 3900 мм</param>
+        <param name="Грузоподъёмность">28 800 кг</param>
+        <param name="Кол-во осей">3</param>
+      </offer>
+      <offer id="amur-lyr9601tdpxzf" available="true">
+        <url>https://tral-diler.ru/catalog/traly4osi/amur-lyr9601tdpxzf</url>
+        <price>9300000.00</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>263719542</categoryId>
+        <picture>https://static.tildacdn.com/stor3765-3862-4034-b336-636564326431/2941ae0d5e530a0798f58549a2e98a02.webp</picture>
+        <picture>https://static.tildacdn.com/stor3734-6137-4461-b831-333165313961/eba0a459fcaa94ef12a2c397a4e1e917.webp</picture>
+        <picture>https://static.tildacdn.com/tild6263-6539-4461-b562-646162356437/tral-amur-cimc.webp</picture>
+        <name>Среднерамный трал AMUR (Амур) LYR9601TDPXZF для перевозки грузов до 100 тонн</name>
+        <typePrefix>Среднерамный трал</typePrefix>
+        <vendor>CIMC</vendor>
+        <model>LYR9601TDPХZF</model>
+        <description>реднерамный трал AMUR LYR9601TDPXZF (производство CIMC): грузоподъёмность 100 т, 4 оси Fuwa по 20 т, площадка 12,35 м, высота 1230 мм, уширители 150 мм, усиленные трапы 1000 мм, контейнерные замки. ОТТС, поставка по РФ.</description>
+        <param name="Тип">Среднерамный трал</param>
+        <param name="Марка">AMUR LYR9601TDPXZF</param>
+        <param name="Модель">LYR9601TDPХZF</param>
+        <param name="Габариты (ДхШхВ)">16500х3200х3804мм</param>
+        <param name="Грузоподъемность">100 тонн</param>
+        <param name="Подвеска">Рессорная</param>
+        <param name="Длина рабочей площадки">12350 мм</param>
+        <param name="Высота рабочей площадки">1300 мм</param>
+        <param name="Трапы">Раздвижные механические трехпружинные усиленные 1000 мм</param>
+        <param name="Тип прицепа">Среднерамный трал</param>
+        <param name="Габариты (Д×Ш×В)">16500 х 3200 х 3800 мм</param>
+        <param name="Грузоподъёмность">100 000 кг</param>
+        <param name="Кол-во осей">4</param>
+      </offer>
+    </offers>
+  </shop>
+</yml_catalog>
