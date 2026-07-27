@@ -51,9 +51,9 @@
 - отчёты `audit.json`, `status.json` и журнал запуска сохраняются как артефакт GitHub Actions на 30 дней;
 - ручное подтверждение критического уменьшения выполняется через запуск workflow с параметром `force_publish`.
 
-Рабочий адрес после настройки Pages и DNS:
+Рабочий адрес:
 
-`https://feed.tral-diler.ru/direct.xml`
+`https://yurapanfiloff-cyber.github.io/tral-yml-feed/direct.xml`
 
 Файл `direct.yml` также публикуется как резервная копия. Основным адресом является
 `direct.xml`: GitHub Pages корректно передаёт для него тип XML и кодировку UTF-8.
@@ -62,10 +62,10 @@
 
 1. Создать публичный репозиторий и загрузить в него содержимое проекта. На бесплатном тарифе GitHub Pages работает для публичного репозитория.
 2. В `Settings → Pages → Build and deployment` выбрать источник `GitHub Actions`.
-3. В `Settings → Pages → Custom domain` указать `feed.tral-diler.ru`.
-4. В DNS Tilda создать запись `CNAME` с хостом `feed` и значением, которое покажет GitHub Pages.
-5. В разделе `Actions` вручную запустить workflow `Generate YML feed`.
-6. После успешного выпуска HTTPS включить `Enforce HTTPS`.
+3. В разделе `Actions` вручную запустить workflow `Generate YML feed`.
+
+Собственный поддомен `feed.tral-diler.ru` можно подключить позднее после переноса
+управления DNS с Тильды в сервис, поддерживающий записи `A` и `CNAME`.
 
 Расписание находится в `.github/workflows/generate-feed.yml`: запуск ежедневно в 02:17 UTC, то есть в 05:17 по московскому времени. GitHub может запускать задания с задержкой, поэтому минута выбрана не в начале часа.
 
