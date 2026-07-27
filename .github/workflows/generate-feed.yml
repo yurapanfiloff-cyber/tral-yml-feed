@@ -59,7 +59,7 @@ jobs:
         run: |
           curl --fail --silent --show-error --location \
             --retry 3 --connect-timeout 15 --max-time 60 \
-            https://feed.tral-diler.ru/direct.xml \
+            https://yurapanfiloff-cyber.github.io/tral-yml-feed/direct.xml \
             --output /tmp/current-direct.xml
           python -c "from lxml import etree; etree.parse('/tmp/current-direct.xml')"
           mv /tmp/current-direct.xml public/direct.xml
