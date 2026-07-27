@@ -1,7 +1,7 @@
 {
   "source_page": "https://tral-diler.ru/traly-i-polupricepy-v-nalichii",
   "tilda_endpoint": "https://store.tildaapi.com/api/getproductslist/",
-  "output_path": "public/direct.yml",
+  "output_path": "public/direct.xml",
   "status_path": "public/status.json",
   "audit_report_path": "public/audit.json",
   "log_path": "runtime/generator.log",
