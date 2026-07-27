@@ -31,7 +31,7 @@ from requests.adapters import HTTPAdapter
 from urllib3.util.retry import Retry
 
 
-VERSION = "1.2.1"
+VERSION = "1.2.2"
 DEFAULT_CONFIG = Path(__file__).with_name("config.json")
 USER_AGENT = "TralDilerFeedBot/1.0 (+https://tral-diler.ru/)"
 SPACE_RE = re.compile(r"\s+")
