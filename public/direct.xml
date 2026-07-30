@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <!DOCTYPE yml_catalog SYSTEM "shops.dtd">
-<yml_catalog date="2026-07-29 08:32">
+<yml_catalog date="2026-07-30 08:19">
   <shop>
     <name>Трал-Дилер</name>
     <company>ИП БАДУЛИН</company>
@@ -1625,32 +1625,6 @@
         <param name="Грузоподъёмность">90 000 кг</param>
         <param name="Кол-во осей">4</param>
       </offer>
-      <offer id="tongyada-cty9804" available="true">
-        <url>https://tral-diler.ru/catalog/traly4osi/tongyada-cty9804</url>
-        <price>7000000.00</price>
-        <currencyId>RUB</currencyId>
-        <categoryId>263719542</categoryId>
-        <picture>https://static.tildacdn.com/stor3865-3233-4035-b865-323163336231/410f58c130d4301fabe903d44cedc52c.webp</picture>
-        <picture>https://static.tildacdn.com/stor6563-3834-4831-b165-316565666166/c230c687bbeba77e89369b91c39a8453.webp</picture>
-        <picture>https://static.tildacdn.com/tild6361-3865-4936-a139-313862393063/tral-tongyada-9804.webp</picture>
-        <name>Среднерамный трал TONGYADA (Тонгъяда) CTY9804, 4 оси</name>
-        <typePrefix>Среднерамный трал</typePrefix>
-        <vendor>TONGYADA</vendor>
-        <model>CTY9804TDPS</model>
-        <description>Среднерамный трал TONGYADA CTY9804: 4 оси FUWA по 20 т, грузоподъёмность 62-64 т по ОТТС (до 90 т конструктивная), площадка 11,8 м, высота 1250 мм, уширители 350 мм, раздвижные трапы на 3700 мм. ОТТС, поставка по РФ.</description>
-        <param name="Тип">Среднерамный трал</param>
-        <param name="Марка">TONGYADA CTY9804TDPS</param>
-        <param name="Модель">CTY9804TDPS</param>
-        <param name="Габариты (ДхШ)">15 800 × 3 000 мм</param>
-        <param name="Грузоподъемность">90 тонн</param>
-        <param name="Подвеска">Рессорная (верхнее расположение рессор)</param>
-        <param name="Длина рабочей площадки">11 800 мм</param>
-        <param name="Высота рабочей площадки">1250–1270 мм</param>
-        <param name="Тип прицепа">Среднерамный трал</param>
-        <param name="Габариты (Д×Ш)">15 800 × 3 000 мм</param>
-        <param name="Грузоподъёмность">90 000 кг</param>
-        <param name="Кол-во осей">4</param>
-      </offer>
       <offer id="tral-tongyada-cty9804tdps" available="true">
         <url>https://tral-diler.ru/catalog/traly4osi/tral-tongyada-cty9804tdps</url>
         <price>7770000.00</price>
@@ -1675,6 +1649,32 @@
         <param name="Тип прицепа">Низкорамный трал</param>
         <param name="Габариты">16400 х 2550 х 3420 мм</param>
         <param name="Грузоподъёмность">65 000 кг</param>
+        <param name="Кол-во осей">4</param>
+      </offer>
+      <offer id="tongyada-cty9804" available="true">
+        <url>https://tral-diler.ru/catalog/traly4osi/tongyada-cty9804</url>
+        <price>7000000.00</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>263719542</categoryId>
+        <picture>https://static.tildacdn.com/stor3865-3233-4035-b865-323163336231/410f58c130d4301fabe903d44cedc52c.webp</picture>
+        <picture>https://static.tildacdn.com/stor6563-3834-4831-b165-316565666166/c230c687bbeba77e89369b91c39a8453.webp</picture>
+        <picture>https://static.tildacdn.com/tild6361-3865-4936-a139-313862393063/tral-tongyada-9804.webp</picture>
+        <name>Среднерамный трал TONGYADA (Тонгъяда) CTY9804, 4 оси</name>
+        <typePrefix>Среднерамный трал</typePrefix>
+        <vendor>TONGYADA</vendor>
+        <model>CTY9804TDPS</model>
+        <description>Среднерамный трал TONGYADA CTY9804: 4 оси FUWA по 20 т, грузоподъёмность 62-64 т по ОТТС (до 90 т конструктивная), площадка 11,8 м, высота 1250 мм, уширители 350 мм, раздвижные трапы на 3700 мм. ОТТС, поставка по РФ.</description>
+        <param name="Тип">Среднерамный трал</param>
+        <param name="Марка">TONGYADA CTY9804TDPS</param>
+        <param name="Модель">CTY9804TDPS</param>
+        <param name="Габариты (ДхШ)">15 800 × 3 000 мм</param>
+        <param name="Грузоподъемность">90 тонн</param>
+        <param name="Подвеска">Рессорная (верхнее расположение рессор)</param>
+        <param name="Длина рабочей площадки">11 800 мм</param>
+        <param name="Высота рабочей площадки">1250–1270 мм</param>
+        <param name="Тип прицепа">Среднерамный трал</param>
+        <param name="Габариты (Д×Ш)">15 800 × 3 000 мм</param>
+        <param name="Грузоподъёмность">90 000 кг</param>
         <param name="Кол-во осей">4</param>
       </offer>
       <offer id="tongyada-cty9804dps-2" available="true">
