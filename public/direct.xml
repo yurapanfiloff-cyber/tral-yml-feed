@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <!DOCTYPE yml_catalog SYSTEM "shops.dtd">
-<yml_catalog date="2026-07-30 08:19">
+<yml_catalog date="2026-07-31 08:46">
   <shop>
     <name>Трал-Дилер</name>
     <company>ИП БАДУЛИН</company>
@@ -1625,32 +1625,6 @@
         <param name="Грузоподъёмность">90 000 кг</param>
         <param name="Кол-во осей">4</param>
       </offer>
-      <offer id="tral-tongyada-cty9804tdps" available="true">
-        <url>https://tral-diler.ru/catalog/traly4osi/tral-tongyada-cty9804tdps</url>
-        <price>7770000.00</price>
-        <currencyId>RUB</currencyId>
-        <categoryId>263719542</categoryId>
-        <picture>https://static.tildacdn.com/stor6635-3934-4636-b631-343139656165/51716dbc85ae7631b779f8f18d7e8aa0.webp</picture>
-        <picture>https://static.tildacdn.com/stor3737-3161-4130-a631-346636396335/c8f2f39872d2cb1a7043c2f80d5318fa.webp</picture>
-        <picture>https://static.tildacdn.com/tild3762-3339-4135-a233-653835663337/tongyada-tral.webp</picture>
-        <name>Низкорамный трал TONGYADA (Тонгяда) CTY9804TDPS — 4 оси, 63 тонны</name>
-        <typePrefix>Низкоармный трал</typePrefix>
-        <vendor>TONGYADA</vendor>
-        <model>CTY9804TDPS</model>
-        <description>Низкорамный трал TONGYADA CTY9804TDPS: 4 оси FUWA по 11,5 т, 63 тонны, пневмоподвеска, гидротрапы с дистанционным управлением, автономная гидростанция. Поставка по РФ.</description>
-        <param name="Тип">Низкоармный трал</param>
-        <param name="Марка">TONGYADA CTY9804TDPS</param>
-        <param name="Модель">CTY9804TDPS</param>
-        <param name="Габариты (ДхШхВ)">16400х2550х3420мм</param>
-        <param name="Грузоподъемность">65 тонн</param>
-        <param name="Подвеска">Пневматическая</param>
-        <param name="Длина рабочей площадки">12400 мм</param>
-        <param name="Высота рабочей площадки">930-950 мм</param>
-        <param name="Тип прицепа">Низкорамный трал</param>
-        <param name="Габариты">16400 х 2550 х 3420 мм</param>
-        <param name="Грузоподъёмность">65 000 кг</param>
-        <param name="Кол-во осей">4</param>
-      </offer>
       <offer id="tongyada-cty9804" available="true">
         <url>https://tral-diler.ru/catalog/traly4osi/tongyada-cty9804</url>
         <price>7000000.00</price>
@@ -1675,6 +1649,32 @@
         <param name="Тип прицепа">Среднерамный трал</param>
         <param name="Габариты (Д×Ш)">15 800 × 3 000 мм</param>
         <param name="Грузоподъёмность">90 000 кг</param>
+        <param name="Кол-во осей">4</param>
+      </offer>
+      <offer id="tral-tongyada-cty9804tdps" available="true">
+        <url>https://tral-diler.ru/catalog/traly4osi/tral-tongyada-cty9804tdps</url>
+        <price>7770000.00</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>263719542</categoryId>
+        <picture>https://static.tildacdn.com/stor6635-3934-4636-b631-343139656165/51716dbc85ae7631b779f8f18d7e8aa0.webp</picture>
+        <picture>https://static.tildacdn.com/stor3737-3161-4130-a631-346636396335/c8f2f39872d2cb1a7043c2f80d5318fa.webp</picture>
+        <picture>https://static.tildacdn.com/tild3762-3339-4135-a233-653835663337/tongyada-tral.webp</picture>
+        <name>Низкорамный трал TONGYADA (Тонгяда) CTY9804TDPS — 4 оси, 63 тонны</name>
+        <typePrefix>Низкоармный трал</typePrefix>
+        <vendor>TONGYADA</vendor>
+        <model>CTY9804TDPS</model>
+        <description>Низкорамный трал TONGYADA CTY9804TDPS: 4 оси FUWA по 11,5 т, 63 тонны, пневмоподвеска, гидротрапы с дистанционным управлением, автономная гидростанция. Поставка по РФ.</description>
+        <param name="Тип">Низкоармный трал</param>
+        <param name="Марка">TONGYADA CTY9804TDPS</param>
+        <param name="Модель">CTY9804TDPS</param>
+        <param name="Габариты (ДхШхВ)">16400х2550х3420мм</param>
+        <param name="Грузоподъемность">65 тонн</param>
+        <param name="Подвеска">Пневматическая</param>
+        <param name="Длина рабочей площадки">12400 мм</param>
+        <param name="Высота рабочей площадки">930-950 мм</param>
+        <param name="Тип прицепа">Низкорамный трал</param>
+        <param name="Габариты">16400 х 2550 х 3420 мм</param>
+        <param name="Грузоподъёмность">65 000 кг</param>
         <param name="Кол-во осей">4</param>
       </offer>
       <offer id="tongyada-cty9804dps-2" available="true">

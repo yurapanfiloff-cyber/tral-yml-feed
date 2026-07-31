@@ -1,13 +1,13 @@
 {
   "status": "ok",
   "generator_version": "1.2.3",
-  "updated_at": "2026-07-30T05:19:26.952845+00:00",
+  "updated_at": "2026-07-31T05:46:45.425270+00:00",
   "message": "Фид успешно опубликован",
   "source_products": 80,
   "published_products": 80,
   "excluded_products": 0,
   "simplified_offers": 0,
   "output_path": "public/direct.xml",
-  "sha256": "e823e45e200a1bcbaf28baf7fe4a7da90f77191cdfcf33a2684d66ff3483e8b6",
+  "sha256": "4c3d01517aef971c3b1ddd05dd4937a013eee94d2eaea072472de4f5b2277383",
   "audit_report": "public/audit.json"
 }
