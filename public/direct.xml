@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <!DOCTYPE yml_catalog SYSTEM "shops.dtd">
-<yml_catalog date="2026-08-06 08:27">
+<yml_catalog date="2026-08-07 07:33">
   <shop>
     <name>Трал-Дилер</name>
     <company>ИП БАДУЛИН</company>
@@ -20,7 +20,6 @@
       <category id="800757843">Особые тралы</category>
       <category id="1258709000">Рефрижераторные полуприцепы</category>
       <category id="1869196400">Самосвальные полуприцепы</category>
-      <category id="332468484">Тралы 5 осей</category>
       <category id="438977898">Фургоны полуприцепы</category>
       <category id="765885657">Цистерны полуприцепы</category>
       <category id="222441007">Шторные полуприцепы</category>
@@ -1624,32 +1623,6 @@
         <param name="Грузоподъёмность">90 000 кг</param>
         <param name="Кол-во осей">4</param>
       </offer>
-      <offer id="tongyada-cty9804" available="true">
-        <url>https://tral-diler.ru/catalog/traly4osi/tongyada-cty9804</url>
-        <price>7000000.00</price>
-        <currencyId>RUB</currencyId>
-        <categoryId>263719542</categoryId>
-        <picture>https://static.tildacdn.com/stor3865-3233-4035-b865-323163336231/410f58c130d4301fabe903d44cedc52c.webp</picture>
-        <picture>https://static.tildacdn.com/stor6563-3834-4831-b165-316565666166/c230c687bbeba77e89369b91c39a8453.webp</picture>
-        <picture>https://static.tildacdn.com/tild6361-3865-4936-a139-313862393063/tral-tongyada-9804.webp</picture>
-        <name>Среднерамный трал TONGYADA (Тонгъяда) CTY9804, 4 оси</name>
-        <typePrefix>Среднерамный трал</typePrefix>
-        <vendor>TONGYADA</vendor>
-        <model>CTY9804TDPS</model>
-        <description>Среднерамный трал TONGYADA CTY9804: 4 оси FUWA по 20 т, грузоподъёмность 62-64 т по ОТТС (до 90 т конструктивная), площадка 11,8 м, высота 1250 мм, уширители 350 мм, раздвижные трапы на 3700 мм. ОТТС, поставка по РФ.</description>
-        <param name="Тип">Среднерамный трал</param>
-        <param name="Марка">TONGYADA CTY9804TDPS</param>
-        <param name="Модель">CTY9804TDPS</param>
-        <param name="Габариты (ДхШ)">15 800 × 3 000 мм</param>
-        <param name="Грузоподъемность">90 тонн</param>
-        <param name="Подвеска">Рессорная (верхнее расположение рессор)</param>
-        <param name="Длина рабочей площадки">11 800 мм</param>
-        <param name="Высота рабочей площадки">1250–1270 мм</param>
-        <param name="Тип прицепа">Среднерамный трал</param>
-        <param name="Габариты (Д×Ш)">15 800 × 3 000 мм</param>
-        <param name="Грузоподъёмность">90 000 кг</param>
-        <param name="Кол-во осей">4</param>
-      </offer>
       <offer id="tral-tongyada-cty9804tdps" available="true">
         <url>https://tral-diler.ru/catalog/traly4osi/tral-tongyada-cty9804tdps</url>
         <price>7770000.00</price>
@@ -1674,6 +1647,32 @@
         <param name="Тип прицепа">Низкорамный трал</param>
         <param name="Габариты">16400 х 2550 х 3420 мм</param>
         <param name="Грузоподъёмность">65 000 кг</param>
+        <param name="Кол-во осей">4</param>
+      </offer>
+      <offer id="tongyada-cty9804" available="true">
+        <url>https://tral-diler.ru/catalog/traly4osi/tongyada-cty9804</url>
+        <price>7000000.00</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>263719542</categoryId>
+        <picture>https://static.tildacdn.com/stor3865-3233-4035-b865-323163336231/410f58c130d4301fabe903d44cedc52c.webp</picture>
+        <picture>https://static.tildacdn.com/stor6563-3834-4831-b165-316565666166/c230c687bbeba77e89369b91c39a8453.webp</picture>
+        <picture>https://static.tildacdn.com/tild6361-3865-4936-a139-313862393063/tral-tongyada-9804.webp</picture>
+        <name>Среднерамный трал TONGYADA (Тонгъяда) CTY9804, 4 оси</name>
+        <typePrefix>Среднерамный трал</typePrefix>
+        <vendor>TONGYADA</vendor>
+        <model>CTY9804TDPS</model>
+        <description>Среднерамный трал TONGYADA CTY9804: 4 оси FUWA по 20 т, грузоподъёмность 62-64 т по ОТТС (до 90 т конструктивная), площадка 11,8 м, высота 1250 мм, уширители 350 мм, раздвижные трапы на 3700 мм. ОТТС, поставка по РФ.</description>
+        <param name="Тип">Среднерамный трал</param>
+        <param name="Марка">TONGYADA CTY9804TDPS</param>
+        <param name="Модель">CTY9804TDPS</param>
+        <param name="Габариты (ДхШ)">15 800 × 3 000 мм</param>
+        <param name="Грузоподъемность">90 тонн</param>
+        <param name="Подвеска">Рессорная (верхнее расположение рессор)</param>
+        <param name="Длина рабочей площадки">11 800 мм</param>
+        <param name="Высота рабочей площадки">1250–1270 мм</param>
+        <param name="Тип прицепа">Среднерамный трал</param>
+        <param name="Габариты (Д×Ш)">15 800 × 3 000 мм</param>
+        <param name="Грузоподъёмность">90 000 кг</param>
         <param name="Кол-во осей">4</param>
       </offer>
       <offer id="tongyada-cty9804dps-2" available="true">
@@ -1910,35 +1909,6 @@
         <param name="Габариты (Д×Ш×В)">13425 х 2550/3000 х 1850 мм</param>
         <param name="Грузоподъёмность">50 000 кг (30 000 кг в раздвинутом состоянии)</param>
         <param name="Кол-во осей">4</param>
-      </offer>
-      <offer id="205543861542-nizkoramnii-razdvizhnoi-tral-amur-amur-l" available="true">
-        <url>https://tral-diler.ru/catalog/205543861542-nizkoramnii-razdvizhnoi-tral-amur-amur-l</url>
-        <price>6400000.00</price>
-        <currencyId>RUB</currencyId>
-        <categoryId>332468484</categoryId>
-        <picture>https://static.tildacdn.com/stor3362-3866-4737-a361-383633386431/05d826e1c2d14b0dd1beb5cc1a3ced0d.webp</picture>
-        <picture>https://static.tildacdn.com/stor6536-3462-4261-b063-626566343565/cafcd4dd1f707cdbbb3170ab8bb582bd.jpg</picture>
-        <picture>https://static.tildacdn.com/stor3862-6434-4530-a231-396162383038/45030827.jpg</picture>
-        <picture>https://static.tildacdn.com/stor6664-6536-4531-a434-646334633437/88724584.png</picture>
-        <picture>https://static.tildacdn.com/stor3935-6163-4261-b036-653738396130/79060835.jpg</picture>
-        <picture>https://static.tildacdn.com/stor3834-3833-4965-a666-326236613834/65926897.jpg</picture>
-        <picture>https://static.tildacdn.com/stor3864-3034-4033-b334-663832636335/96100542.jpg</picture>
-        <picture>https://static.tildacdn.com/stor6638-3530-4035-a331-653432656336/46052354.jpg</picture>
-        <picture>https://static.tildacdn.com/stor6566-3134-4964-b834-666138343633/23236934.jpg</picture>
-        <picture>https://static.tildacdn.com/stor3364-3533-4861-b830-326465383236/21548966.jpg</picture>
-        <name>Низкорамный раздвижной трал AMUR (Амур) LYR9806TDPW (Б/У 8000км)</name>
-        <typePrefix>Низкорамный-раздвижной телескопический трал (габаритный)</typePrefix>
-        <vendor>AMUR</vendor>
-        <model>LYR9806TDPW</model>
-        <description>Раздвижной телескопический трал AMUR LYR9806TDPW Б/У, грузоподъёмность 80 т, раздвижка +6000 мм, пневмоподвеска, подъемные 1–2 оси. В наличии в Нерюнгри. Купить у официального дилера Трал Дилер. Доставка по РФ.</description>
-        <param name="Тип">Низкорамный-раздвижной телескопический трал (габаритный)</param>
-        <param name="Марка">AMUR</param>
-        <param name="Модель">LYR9806TDPW</param>
-        <param name="Габариты (ДхШхВ)">17000х2550х3408мм</param>
-        <param name="Грузоподъемность">80 тонн</param>
-        <param name="Подвеска">Пневматическая. 1 и 2-ая ось — Подъемные. 3-ая ось —Стационарная. 4 и 5-ая ось — Поворотные</param>
-        <param name="Длина рабочей площадки">13000 мм</param>
-        <param name="Высота рабочей площадки">900-950 мм</param>
       </offer>
       <offer id="amur-lyr9401jsed" available="true">
         <url>https://tral-diler.ru/catalog/container/amur-lyr9401jsed</url>
