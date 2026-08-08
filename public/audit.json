@@ -1,6 +1,6 @@
 {
-  "status": "warning",
-  "checked_at": "2026-08-07T04:33:41.177916+00:00",
+  "status": "ok",
+  "checked_at": "2026-08-08T03:44:37.325052+00:00",
   "source_page": "https://tral-diler.ru/traly-i-polupricepy-v-nalichii",
   "catalogue": {
     "recid": "2320492521",
@@ -15,16 +15,14 @@
   "simplified_offers_count": 0,
   "fatal_errors_count": 0,
   "fatal_errors": [],
-  "warnings_count": 1,
-  "warnings": [
-    "Количество оферов уменьшилось с 80 до 79 (1.25%)"
-  ],
+  "warnings_count": 0,
+  "warnings": [],
   "excluded_products": [],
   "count_change": {
-    "previous_count": 80,
+    "previous_count": 79,
     "new_count": 79,
-    "difference": -1,
-    "drop_percent": 1.25,
+    "difference": 0,
+    "drop_percent": 0.0,
     "threshold_percent": 20.0,
     "critical": false
   },
@@ -1039,22 +1037,6 @@
       "error": null
     },
     {
-      "id": "tral-tongyada-cty9804tdps",
-      "url": "https://tral-diler.ru/catalog/traly4osi/tral-tongyada-cty9804tdps",
-      "http_status": 200,
-      "title": "Низкорамный трал TONGYADA (Тонгяда) CTY9804TDPS — 4 оси, 63 тонны",
-      "price": "7770000.00",
-      "pictures": 3,
-      "vendor": "TONGYADA",
-      "model": "CTY9804TDPS",
-      "category": "4-x осные тралы",
-      "params": 12,
-      "offer_type": "combined",
-      "feed_name": "Низкорамный трал TONGYADA (Тонгяда) CTY9804TDPS — 4 оси, 63 тонны",
-      "included_in_feed": true,
-      "error": null
-    },
-    {
       "id": "tongyada-cty9804",
       "url": "https://tral-diler.ru/catalog/traly4osi/tongyada-cty9804",
       "http_status": 200,
@@ -1067,6 +1049,22 @@
       "params": 12,
       "offer_type": "combined",
       "feed_name": "Среднерамный трал TONGYADA (Тонгъяда) CTY9804, 4 оси",
+      "included_in_feed": true,
+      "error": null
+    },
+    {
+      "id": "tral-tongyada-cty9804tdps",
+      "url": "https://tral-diler.ru/catalog/traly4osi/tral-tongyada-cty9804tdps",
+      "http_status": 200,
+      "title": "Низкорамный трал TONGYADA (Тонгяда) CTY9804TDPS — 4 оси, 63 тонны",
+      "price": "7770000.00",
+      "pictures": 3,
+      "vendor": "TONGYADA",
+      "model": "CTY9804TDPS",
+      "category": "4-x осные тралы",
+      "params": 12,
+      "offer_type": "combined",
+      "feed_name": "Низкорамный трал TONGYADA (Тонгяда) CTY9804TDPS — 4 оси, 63 тонны",
       "included_in_feed": true,
       "error": null
     },
